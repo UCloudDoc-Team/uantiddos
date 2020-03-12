@@ -2,7 +2,7 @@
 
 * [概览](security/uantiddos/overview)
 * [DDoS攻击防护 UDDoS](/security/uantiddos/uantiddos)
-* [DDoS攻击防护——清洗 UClean](/security/uantiddos/uantiddos/clean)
+* [DDoS攻击防护——清洗 UClean](/security/clean)
     
 
    
