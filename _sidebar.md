@@ -55,7 +55,7 @@
     * [应用场景](security/uantiddos/uanycastclean/buy/apply)
   * 操作指南
     * 购买AnycastEIP
-      * [申请](security/uantiddos/uanycastclean/guide/anycasteip/allocate)
+      * [申请](security/uantiddos/uanycastclean/guide/allocate)
     * 防护包
       * [购买防护包](security/uantiddos/uanycastclean/guide/uanycastclean/buyanycastclean)
       * [配置防护包策略](security/uantiddos/uanycastclean/guide/uanycastclean/config)
@@ -67,3 +67,4 @@
    
 
   ​      
+
