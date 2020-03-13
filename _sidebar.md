@@ -57,10 +57,10 @@
     * 购买AnycastEIP
       * [申请](security/uantiddos/uanycastclean/guide/allocate)
     * 防护包
-      * [购买防护包](security/uantiddos/uanycastclean/guide/uanycastclean/buyanycastclean)
-      * [配置防护包策略](security/uantiddos/uanycastclean/guide/uanycastclean/config)
-      * [查看清洗详情](security/uantiddos/uanycastclean/guide/uanycastclean/check)
-      * [查看防护包使用记录](security/uantiddos/uanycastclean/guide/uanycastclean/used)
+      * [购买防护包](security/uantiddos/uanycastclean/guide/buyanycastclean)
+      * [配置防护包策略](security/uantiddos/uanycastclean/guide/config)
+      * [查看清洗详情](security/uantiddos/uanycastclean/guide/check)
+      * [查看防护包使用记录](security/uantiddos/uanycastclean/guide/used)
 
     
 
