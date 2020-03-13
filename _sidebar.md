@@ -6,13 +6,7 @@
 
 * [DDoS攻击防护—高防 UADS](/security/uantiddos/uads/overview)
 
-  * 产品简介
-    * [产品概述](security/uantiddos/uads/concepts/overview) 
-    * [名词解释](security/uantiddos/uads/concepts/term) 
-    * [产品优势](security/uantiddos/uads/concepts/advantage)
-    * [主要功能](security/uantiddos/uads/concepts/function)
-    * [升级记录](security/uantiddos/uads/concepts/change)
-    * [IP配额](security/uantiddos/uads/concepts/ipnumbers)
+  * 产品简介(security/uantiddos/uads/concepts)
   * [架构和原理简介](security/uantiddos/uads/architecture)
   * [快速上手](security/uantiddos/uads/common) 
   * 操作指南
