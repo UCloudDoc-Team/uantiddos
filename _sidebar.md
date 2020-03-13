@@ -3,13 +3,11 @@
 * [概览](security/uantiddos/overview)
 
 * [DDoS攻击基础防护](/security/uantiddos/usecurity/overview)
-
   * [UCloud黑洞策略](security/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
   * [FAQ](security/uantiddos/usecurity/faq)
 
 * [DDoS攻击防护—高防 UADS](/security/uantiddos/uads/overview)
-
   * [产品简介](security/uantiddos/uads/concepts)
   * [架构和原理简介](security/uantiddos/uads/architecture)
   * [快速上手](security/uantiddos/uads/common) 
