@@ -21,9 +21,9 @@
     * [5.监控视图](security/uantiddos/uads/opintro/dashboard)
   * 计费说明
     * 1、产品价格
-      * [华南BGP高防价格](security/uantiddos/uads/price/prices/southern)
-      * [华东双线高防价格](security/uantiddos/uads/price/prices/east)
-      * [华东BGP高防](security/uantiddos/uads/price/prices/bgp)
+      * [华南BGP高防价格](security/uantiddos/uads/prices/southern)
+      * [华东双线高防价格](security/uantiddos/uads/prices/east)
+      * [华东BGP高防](security/uantiddos/uads/prices/bgp)
     * [2. 到期说明](security/uantiddos/uads/price/invalid)
     * [3. 升降级高防服务](security/uantiddos/uads/price/upgrade)
   * [使用注意事项](security/uantiddos/uads/warning)
