@@ -4,15 +4,13 @@
 
 * [DDoS攻击基础防护](/security/usecurity/overview)
 
-* [DDoS攻击防护—高防 UADS](/security/uads/overview)
+  * [UCloud黑洞策略](security/uantiddos/usecurity/datacenter)
+  * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
+  * [FAQ](security/uantiddos/usecurity/faq)
 
-  * 产品简介
-    * [产品概述](security/uantiddos/uads/concepts/overview) 
-    * [名词解释](security/uantiddos/uads/concepts/term) 
-    * [产品优势](security/uantiddos/uads/concepts/advantage)
-    * [主要功能](security/uantiddos/uads/concepts/function)
-    * [升级记录](security/uantiddos/uads/concepts/change)
-    * [IP配额](security/uantiddos/uads/concepts/ipnumbers)
+* [DDoS攻击防护—高防 UADS](/security/uantiddos/uads/overview)
+
+  * [产品简介](security/uantiddos/uads/concepts)
   * [架构和原理简介](security/uantiddos/uads/architecture)
   * [快速上手](security/uantiddos/uads/common) 
   * 操作指南
@@ -33,14 +31,47 @@
     * [常见问题](security/uantiddos/uads/faq/game)
     * [如何获取用户的真实IP地址？](security/uantiddos/uads/faq/howtogetip)
 
-* [DDoS攻击防护—清洗 UClean](/security/clean/overview)
+* [DDoS攻击防护—清洗 UClean](/security/uantiddos/clean/overview)
 
-* [DDoS攻击防护—Anycast全球清洗 UAnycastClean](/security/uanycastclean/overview)
+  * 产品简介
+    * [产品概述](security/uantiddos/clean/concepts/overview) 
+    * [产品优势](security/uantiddos/clean/concepts/advantage)
+    * [机房清洗能力](security/uantiddos/clean/concepts/protect)
+    * [升级记录](security/uantiddos/clean/concepts/change)
+  * [架构和原理简介](security/uantiddos/clean/architecture)
+  * [快速上手](security/uantiddos/clean/common) 
+  * 操作指南
+    * [1. 添加清洗](security/uantiddos/clean/opintro/add)
+    * [2. 查看清洗详情](security/uantiddos/clean/opintro/details)
+    * [3. 清洗升级](security/uantiddos/clean/opintro/upgrade)
+    * [4. 清洗降级](security/uantiddos/clean/opintro/degrade)
+  * [产品价格](security/uantiddos/clean/price)
+  * [FAQ](security/uantiddos/clean/faq)
+
+* [DDoS攻击防护—Anycast全球清洗 UAnycastClean](/security/uantiddos/uanycastclean/overview)
+
+  * 产品简介
+    * [什么是Anycast全球清洗](security/uantiddos/uanycastclean/intro/whatisanycasteip) 
+    * [技术架构](security/uantiddos/uanycastclean/intro/architecture)
+    * [使用限制](security/uantiddos/uanycastclean/intro/limit)
+  * 购买指南
+    * [产品定价](security/uantiddos/uanycastclean/buy/price) 
+    * [应用场景](security/uantiddos/uanycastclean/buy/apply)
+  * 操作指南
+    * 购买AnycastEIP
+      * [申请](security/uantiddos/uanycastclean/guide/allocate)
+    * 防护包
+      * [购买防护包](security/uantiddos/uanycastclean/guide/buyanycastclean)
+      * [配置防护包策略](security/uantiddos/uanycastclean/guide/config)
+      * [查看清洗详情](security/uantiddos/uanycastclean/guide/check)
+      * [查看防护包使用记录](security/uantiddos/uanycastclean/guide/used)
+
   
 
   
+
     
-  
+
    
-  
+
   ​      
