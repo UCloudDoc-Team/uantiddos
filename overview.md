@@ -7,7 +7,7 @@
   * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
   * [FAQ](security/uantiddos/usecurity/faq)
 
-* DDoS攻击防护—高防 UADS
+* DDoS攻击防护—高防UADS
   * [产品简介](security/uantiddos/uads/concepts)
   * [架构和原理简介](security/uantiddos/uads/architecture)
   * [快速上手](security/uantiddos/uads/common) 
