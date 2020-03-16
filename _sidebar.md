@@ -1,5 +1,4 @@
 <div class="sidebar_title icon__uads"> DDoS攻击防护 UDDoS</div>
-
 * [概览](security/uantiddos/overview)
 
 * 基础防护
@@ -8,7 +7,7 @@
   * [FAQ](security/uantiddos/usecurity/faq)
 
 * 高防 UADS
-  * [产品简介](security/uantiddos/uads/concepts)
+  * 产品简介
     * [产品概述](security/uantiddos/uads/concepts/overview) 
     * [名词解释](security/uantiddos/uads/concepts/term) 
     * [产品优势](security/uantiddos/uads/concepts/advantage)
