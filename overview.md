@@ -31,7 +31,7 @@
   * [使用注意事项](security/uantiddos/uads/warning)
   * FAQ
     * [常见问题](security/uantiddos/uads/faq/game)
-    * [如何获取用户的真实IP地址？](security/uantiddos/uads/faq/howtogetip)、
+    * [如何获取用户的真实IP地址？](security/uantiddos/uads/faq/howtogetip)
 * 清洗 UClean
   * 产品简介
     * [产品概述](security/uantiddos/uclean/concepts/overview) 
