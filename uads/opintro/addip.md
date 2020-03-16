@@ -17,7 +17,7 @@ Ucloud高防产品采用代理模式回源。代理模式指采用NAT代理转�
 
 优势：允许添加非ucloud上的外网IP。
 
-![](/images/opintro/game/添加代理ip.png)
+![](/images/uads/opintro/game/添加代理ip.png)
 
 高防线路：如果购买的双线高防，建议选择和源站一致的高防线路，如果源站是BGP线路，则建议选择用户来源多的那个线路。以减少访问延迟时间。
 

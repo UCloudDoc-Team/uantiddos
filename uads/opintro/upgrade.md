@@ -4,7 +4,7 @@
 
 ## 华南/华东高防
 
-![](/images/opintro/game/调整高防.png)
+![](/images/uads/opintro/game/调整高防.png)
 
 注意：
 

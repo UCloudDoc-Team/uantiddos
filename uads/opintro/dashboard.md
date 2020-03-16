@@ -3,7 +3,7 @@
 # 5.监控视图
 
 
-![](/images/opintro/game/概览.png)
+![](/images/uads/opintro/game/概览.png)
 
 表1.基本信息
 

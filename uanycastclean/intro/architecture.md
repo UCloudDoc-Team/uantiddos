@@ -28,8 +28,9 @@ Anycast全球清洗是针对海外客户在UCloud上的资源在遭受大流量D
 
 如上图，UCloud AnycastEIP在多个节点进行EIP的宣告。如果发生攻击，攻击流量将分散到多个入口点，并分别进行清洗。清洗后的流量将通过UCloud骨干互联网回传到源端，从而实现多个节点协同工作，提升整体的防护能力。
 
+![image](/images/uanycastclean
 
-![image](/images/uanycastclean/arch3.png)
+/arch3.png)
 
 如上图，UCloud在每个入口点都拥有一套自研的检测、清洗系统。其中检测集群基于DPDK开发，支持包量、流量、SYN/FIN/RST/ACK/UDP/ICMP等协议的检测。边缘路由器将流量镜像一份，给到检测系统。检测系统根据既有算法，判定EIP是否被攻击。如果被攻击，则通知联动系统。联动系统收集攻击数据，保留攻击报文到数据中心。同时，联动系统将根据EIP的封堵阈值，决定是通知封堵系统还是清洗系统。
 

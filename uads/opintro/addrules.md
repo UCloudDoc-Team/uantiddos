@@ -4,11 +4,11 @@
 
 购买高防-\>选择“华东BGP 杭州”线路高防-\>购买成功-\>详情-\>IP管理-\>添加IP-\>确定-\>高防IP添加成。
 
-![](/images/opintro/杭州添加IP.png)
+![](/images/uads/opintro/杭州添加IP.png)
 
 点击规则管理----添加规则，可以配置高防IP的转发规则。
 
-![](/images/opintro/添加转发规则.png)
+![](/images/uads/opintro/添加转发规则.png)
 
 **负载模式:**
 

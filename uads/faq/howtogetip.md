@@ -18,35 +18,35 @@
 -r && rpm -qa |egrep 'kernel-devel|kernel-headers')：  
 - 若一致，跳过步骤2，进行toa模块的编译安装  
 - 若不一致，如下图：  
-![](/images/toa_201810301429.png) 
+![](/images/uads/toa_201810301429.png) 
 需要卸载后进行步骤2操作(rpm -e --nodeps kernel-devel kernel-headers)  
 - 若未安装依赖，如下图： 
-![](/images/toa_201810301432.png)
+![](/images/uads/toa_201810301432.png)
 
   
 2. yum搜索是否有与当前内核版本对应的‘kernel-devel、kernel-headers’包  
 - 若有，则安装对用版本（yum install pkgname-version.x86_64）  
 - 若无，如下图  
-![](/images/toa_201810301443.png)  
+![](/images/uads/toa_201810301443.png)  
 则打开网站http://rpm.pbone.net，点击左侧SEARCH标签，填入包名+版本号（如：`kernel-devel-3.10.0-693.11.6.el7.x86_64`），选择对应的系统发行版本（此处为CentOS7），点击搜索
 
-![](/images/toa_201810301447.png) 
+![](/images/uads/toa_201810301447.png) 
 
 搜索结果：
 
-![](/images/toa_201810301449.png) 
+![](/images/uads/toa_201810301449.png) 
 
 或使用谷歌用关键字rpm.pbone.net kernel-devel-3.10.0-693.11.6.el7.x86_64搜索
 
-![](/images/toa_201810301450.png) 
+![](/images/uads/toa_201810301450.png) 
 
 下载后rpm方式安装，kernel-headers的安装同理
 
-![](/images/toa_201810301452.png) 
+![](/images/uads/toa_201810301452.png) 
 
 确认安装结果（uname -r && rpm -qa|egrep 'kernel-devel|kernel-headers'），如下图：
 
-![](/images/toa_201810301453.png)
+![](/images/uads/toa_201810301453.png)
 
   
 3. 下载linux通用版的源码包，该版本支持Centos 6.9和Centos 7、ubuntu
@@ -66,7 +66,7 @@ insmod /lib/modules/`uname -r`/kernel/net/netfilter/ipvs/toa.ko
 ```
 toa模块安装验证如下（lsmod |grep toa）：
 
-![](/images/toa_201810301534.png)
+![](/images/uads/toa_201810301534.png)
 
 5. 添加开机模块自动加载  
 
@@ -76,11 +76,11 @@ echo "insmod /lib/modules/`uname -r`/kernel/net/netfilter/ipvs/toa.ko">> /etc/rc
 
 **nginx环境下**，直接在nginx 日志中查看真实访问者地址,日志路径： /var/log/nginx/access.log
 
-![](/images/nginx_真实地址.png)
+![](/images/uads/nginx_真实地址.png)
 
 **apache环境下**，直接在apache日志中查看真实访问者地址,日志路径：/etc/httpd/logs/access_log
 
-![](/images/apache获取真实地址.png)
+![](/images/uads/apache获取真实地址.png)
 
   - 其他web配置环境， 采用同样方法在相关web 日志文件中检查即可  
 

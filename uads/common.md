@@ -4,7 +4,7 @@
 
 ## 通用高防
 
-![](/images/流程.png)
+![](/images/uads/流程.png)
 
 ### 1. 使用新IP替换旧IP
 
@@ -23,7 +23,7 @@
 
 在【安全防护】-【DDoS攻击防护 UDDoS】-【高防】页面，点击“详情”-“IP管理”-“添加IP”。注意 **下图适用华南BGP、华东BGP杭州2、华东双线。华东BGP杭州配置请见[操作指南-添加转发规则](security/uads/opintro/addrules)**。
 
-![](/images/V4自建添加IP.png)
+![](/images/uads/V4自建添加IP.png)
 
 
 **高防线路：**
@@ -43,11 +43,11 @@
 
 首先获取高防的cname（添加源站IP后会在列表中给出），如下图所示：
 
-![](/images/Cname.png)
+![](/images/uads/Cname.png)
 
 到DNS服务商处删除A记录，添加CNAME记录。
 
-![](/images/dns_cname.png)
+![](/images/uads/dns_cname.png)
 
 说明：上一步添加IP后，每条记录会生成对应的CNAME值，需要去修改对应网站域名的DNS解析为CNAME解析方式。
 

@@ -16,7 +16,7 @@ attack，缩写：DDoS），是黑客使用网络上两个或以上被攻陷的�
 Flood、ACK Flood、UDP Flood、ICMP Flood、连接耗尽攻击、DNS Request/Response
 Flood、HTTP Get/Post Flood等3到7层的攻击。
 
-![](/images/高防架构.png)
+![](/images/uads/高防架构.png)
 
 正常的时候用户直接访问源站。
 
