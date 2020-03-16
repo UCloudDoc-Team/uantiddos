@@ -2,6 +2,8 @@
 
 * [概览](security/uantiddos/overview)
 
+* [DDoS攻击防护 UDDoS](/security/uantiddos/uantiddos)
+
 * 基础防护
   * [UCloud黑洞策略](security/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
