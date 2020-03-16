@@ -17,7 +17,7 @@
     * [4.添加转发规则（仅限华东BGP杭州高防使用）](security/uantiddos/uads/opintro/addrules)
     * [5.监控视图](security/uantiddos/uads/opintro/dashboard)
   * 计费说明
-    * 1. 产品价格
+    * 产品价格
       * [华南BGP高防价格](security/uantiddos/uads/prices/southern)
       * [华东双线高防价格](security/uantiddos/uads/prices/east)
       * [华东BGP高防](security/uantiddos/uads/prices/bgp)
