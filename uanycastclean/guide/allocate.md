@@ -5,10 +5,10 @@
 ## 操作步骤
 
 1，进入**基础网络 UNet**页面，**AnycastEIP**标签页。
-![](/images/guide1.png)
+![](/images/uanycastclean/guide1.png)
 
 2，点击**申请AnycastEIP**，进行实例创建。
-![](/images/guide2.png)
+![](/images/uanycastclean/guide2.png)
 
 3，申请AnycastEIP弹窗中，有以下配置：
 
@@ -21,6 +21,6 @@
 * **健康检查**：检查后端节点的健康状况，自动屏蔽受影响节点。当前仅支持默认的健康检查方式，云主机，默认检查运行状态，“运行”即视为健康，否则为不健康；负载均衡ULB，全部VServer健康检查均失败，则该节点为不健康，否则均视为健康。
 
 * **绑定防护包**：绑定防护包可提供DDoS流量的全球分布式清洗，保障业务安全。
-![](/images/guide3.png)
+![](/images/uanycastclean/guide3.png)
 
 4，点击**确定**即可创建完成。

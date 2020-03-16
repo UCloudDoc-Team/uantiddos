@@ -22,13 +22,13 @@ Anycast全球清洗是针对海外客户在UCloud上的资源在遭受大流量D
 
 ### Anycast清洗架构
 
-![image](/images/uanycastclean/arch1.png)
+![image](/images/uanycastclean/uanycastclean/arch1.png)
 
 客户将Anycast EIP绑到需要防护的资源上，之后所有公网用户流量都经过Anycast全球清洗系统，Anycast全球清洗系统在被攻击时会将攻击流量进行过滤，只放行正常流量到客户源站，确保客户源站能够提供稳定正常的服务。
 
 如上图，UCloud AnycastEIP在多个节点进行EIP的宣告。如果发生攻击，攻击流量将分散到多个入口点，并分别进行清洗。清洗后的流量将通过UCloud骨干互联网回传到源端，从而实现多个节点协同工作，提升整体的防护能力。
 
-![image](/images/uanycastclean
+![image](/images/uanycastclean/uanycastclean
 
 /arch3.png)
 

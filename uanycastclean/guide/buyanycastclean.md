@@ -6,11 +6,11 @@
 ## 操作步骤
 1，进入产品导航页面，选择ANYCAST全球清洗。
 
-![image](/images/pkg0.png)
+![image](/images/uanycastclean/pkg0.png)
 
 2，点击**防护包管理**标签页，点击**创建防护包**,进行实例创建。
 
-![image](/images/pkg1.png)
+![image](/images/uanycastclean/pkg1.png)
 
 - **防护包名称**：必填项，可以为任意字符的组合，默认为空。
 - **防护包类型**：目前只支持时长包模式，默认为时长包。
