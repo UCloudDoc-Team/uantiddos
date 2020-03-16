@@ -1,12 +1,11 @@
 <div class="sidebar_title icon__uads"> DDoS攻击防护 UDDoS</div>
-
 * [概览](security/uantiddos/overview)
-* DDoS攻击基础防护
+* 基础防护
   * [UCloud黑洞策略](security/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
   * [FAQ](security/uantiddos/usecurity/faq)
 
-* DDoS攻击防护—高防 UADS
+* 高防 UADS
   * [产品简介](security/uantiddos/uads/concepts)
   * [架构和原理简介](security/uantiddos/uads/architecture)
   * [快速上手](security/uantiddos/uads/common) 
@@ -28,7 +27,7 @@
     * [常见问题](security/uantiddos/uads/faq/game)
     * [如何获取用户的真实IP地址？](security/uantiddos/uads/faq/howtogetip)
 
-* DDoS攻击防护—清洗 UClean
+* 清洗 UClean
   * 产品简介
     * [产品概述](security/uantiddos/uclean/concepts/overview) 
     * [产品优势](security/uantiddos/uclean/concepts/advantage)
@@ -44,7 +43,7 @@
   * [产品价格](security/uantiddos/uclean/price)
   * [FAQ](security/uantiddos/uclean/faq)
 
-* DDoS攻击防护—Anycast全球清洗 UAnycastClean
+* Anycast全球清洗 UAnycastClean
   * 产品简介
     * [什么是Anycast全球清洗](security/uantiddos/uanycastclean/intro/whatisanycasteip) 
     * [技术架构](security/uantiddos/uanycastclean/intro/architecture)
