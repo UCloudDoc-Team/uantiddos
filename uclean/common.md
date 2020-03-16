@@ -6,11 +6,11 @@
 
 选中 “产品与服务”-\>"优盾"-\>"高防服务"
 
-![](/images/菜单.png)
+![](/images/uclean/菜单.png)
 
 选择“清洗”
 
-![](/images/清洗.png)
+![](/images/uclean/清洗.png)
 
 ## 2. 添加清洗，开通服务
 

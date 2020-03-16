@@ -6,4 +6,4 @@
 
 升级需要补差价，付费后即升级成功！
 
-![](/images/opintro/清洗升级.png)
+![](/images/uclean/opintro/清洗升级.png)
