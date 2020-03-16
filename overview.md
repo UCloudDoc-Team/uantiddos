@@ -13,11 +13,8 @@
     * [主要功能](security/uantiddos/uads/concepts/function)
     * [升级记录](security/uantiddos/uads/concepts/change)
     * [IP配额](security/uantiddos/uads/concepts/ipnumbers)
-  
   * [架构和原理简介](security/uantiddos/uads/architecture)
-  
   * [快速上手](security/uantiddos/uads/common) 
-  
   * 操作指南
     * [1.添加高防（初次购买）](security/uantiddos/uads/opintro/add)
     * [2.调整高防](security/uantiddos/uads/opintro/upgrade)
