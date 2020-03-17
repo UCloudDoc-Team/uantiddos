@@ -5,7 +5,7 @@
   * [UCloud黑洞策略](security/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](security/uantiddos/usecurity/check_ddos)
   * [FAQ](security/uantiddos/usecurity/faq)
-* [高防 UADS](/security/uantiddos/uantiddos/uads/overview.md)
+* [高防 UADS](/security/uantiddos/uads/overview.md)
   * 产品简介
     * [产品概述](security/uantiddos/uads/concepts/overview) 
     * [名词解释](security/uantiddos/uads/concepts/term) 
