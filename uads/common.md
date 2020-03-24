@@ -21,7 +21,7 @@
 
 ### 2. 添加IP，开通服务
 
-在【安全防护】-【DDoS攻击防护 UDDoS】-【高防】页面，点击“详情”-“IP管理”-“添加IP”。注意 **下图适用华南BGP、华东BGP杭州2、华东双线。华东BGP杭州配置请见[操作指南-添加转发规则](security/uantiddos/uads/opintro/addrules)**。
+在【安全防护】-【DDoS攻击防护 UDDoS】-【高防】页面，点击“详情”-“IP管理”-“添加IP”。注意 **下图适用华南BGP、华东BGP杭州2、华东双线。华东BGP杭州配置请见[操作指南-添加转发规则](uantiddos/uads/opintro/addrules)**。
 
 ![](/images/uads/V4自建添加IP.png)
 

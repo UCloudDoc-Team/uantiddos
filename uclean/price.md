@@ -4,7 +4,7 @@
 
 ## 境外（洛杉矶、华盛顿、法兰克福、新加坡、高雄、莫斯科、东京、台北）
 
-1G以下免费，机房可以提供的清洗能力参见[此处](/security/uantiddos/uclean/concepts/protect)。
+1G以下免费，机房可以提供的清洗能力参见[此处](uantiddos/uclean/concepts/protect)。
 
 付费方式：预付费
 

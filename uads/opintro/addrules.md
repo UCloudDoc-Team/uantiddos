@@ -33,7 +33,7 @@ option中，源站可通过安装TOA模块获取。
 TOAID:源站TOA模块将根据此ID通过TCP option获取用户真实IP。UCloud提供的TOA模块默认值是200。
 
 ``` 
- TOA模块安装方式参考：https://docs.ucloud.cn/security/uads/faq/howtogetip?s[]=toa
+ TOA模块安装方式参考：https://docs.ucloud.cn/uads/faq/howtogetip?s[]=toa
 ```
 
 配置完后续的转发规则后。将业务切到高防IP或者将域名通过cname的方式解析的高防域名即可完成业务切换。
