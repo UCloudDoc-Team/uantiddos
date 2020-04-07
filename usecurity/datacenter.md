@@ -28,7 +28,7 @@
 **如果是境内的机房：**
 
 受到攻击后，为了避免IP再被攻击而影响业务，建议更换源站IP并接入
-[高防](/security/uantiddos/uads/overview.md) 进行防护。
+[高防](/uantiddos/uads/README) 进行防护。
 
 **如果是境外的机房：**
 
