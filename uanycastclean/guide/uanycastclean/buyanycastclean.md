@@ -4,7 +4,7 @@
 防护包是基于Anycast的流量调度，对DDoS流量进行全球分布式清洗，能够有效保障业务安全。
 
 ## 操作步骤
-1，进入产品导航页面，选择ANYCAST全球清洗。
+1，进入产品导航页面，选择全球清洗。
 
 ![image](/images/uanycastclean/pkg0.png)
 

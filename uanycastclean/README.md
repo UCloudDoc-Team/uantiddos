@@ -1,7 +1,7 @@
 # 概览
 
 * 产品简介
-    * [什么是Anycast全球清洗](uantiddos/uanycastclean/intro/whatisanycasteip) 
+    * [什么是全球清洗](uantiddos/uanycastclean/intro/whatisanycasteip) 
     * [技术架构](uantiddos/uanycastclean/intro/architecture)
     * [使用限制](uantiddos/uanycastclean/intro/limit)
 * 购买指南

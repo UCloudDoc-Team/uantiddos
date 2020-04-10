@@ -49,9 +49,9 @@
   * [产品价格](/uantiddos/uclean/price)
   * [FAQ](/uantiddos/uclean/faq)
 
-* [Anycast全球清洗 UAnycastClean](/uantiddos/uanycastclean/overview.md)
+* [全球清洗 UAnycastClean](/uantiddos/uanycastclean/overview.md)
   * 产品简介
-    * [什么是Anycast全球清洗](/uantiddos/uanycastclean/intro/whatisanycasteip) 
+    * [什么是全球清洗](/uantiddos/uanycastclean/intro/whatisanycasteip) 
     * [技术架构](/uantiddos/uanycastclean/intro/architecture)
     * [使用限制](/uantiddos/uanycastclean/intro/limit)
   * 购买指南

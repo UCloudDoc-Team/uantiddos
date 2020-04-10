@@ -1,8 +1,8 @@
-<div class="sidebar_title"> Anycast全球清洗 UAnycastClean</div>
+<div class="sidebar_title"> 全球清洗 UAnycastClean</div>
 
 * [概览](/uanycastclean/README)
 * 产品简介
-    * [什么是Anycast全球清洗](/uanycastclean/intro/whatisanycasteip) 
+    * [什么是全球清洗](/uanycastclean/intro/whatisanycasteip) 
     * [技术架构](/uanycastclean/intro/architecture)
     * [使用限制](/uanycastclean/intro/limit)
 * 购买指南
