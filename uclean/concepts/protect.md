@@ -30,7 +30,7 @@
 |洛杉矶| 1Gbps|
 |华盛顿| 1Gbps|
 |法兰克福| 1Gbps|
-|曼谷|1Gbps|
+|曼谷|2Gbps, 泰国国际线路1000Mbps|
 |首尔|1Gbps, 韩国国际线路1000Mbps|
 |新加坡|1Gbps|
 |高雄|1Gbps|
