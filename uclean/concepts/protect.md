@@ -51,8 +51,8 @@
 
 | 地域名称 | 默认清洗阈值 |
 | ---- | ------ |
-| 北京| syn:3wpps,ack:20wpps,icmp:2wpps,udp:10wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps |
-|上海| syn:3wpps,ack:15wpps,icmp:2wpps,udp:10wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
-|广州| syn:3wpps,ack:15wpps,icmp:2wpps,udp:10wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
-|香港| syn:3wpps,ack:15wpps,icmp:2wpps,udp:10wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
-|其他| syn:3wpps,ack:6wpps,icmp:2wpps,udp:6wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
+| 北京| syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps |
+|上海| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
+|广州| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
+|香港| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
+|其他| syn:10wpps,ack:10wpps,icmp:2wpps,udp:10wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
