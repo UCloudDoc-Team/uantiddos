@@ -35,10 +35,16 @@
 
 
 2. yum搜索是否有与当前内核版本对应的‘kernel-devel、kernel-headers’包  
+
+
 - 若有，则安装对用版本（yum install pkgname-version.x86_64）  
+
+
 - 若无，如下图  
 ![](/images/uads/toa_201810301443.png)  
-则打开网站http://rpm.pbone.net，点击左侧SEARCH标签，填入包名+版本号（如：`kernel-devel-3.10.0-693.11.6.el7.x86_64`），选择对应的系统发行版本（此处为CentOS7），点击搜索
+
+
+- 则打开网站 http://rpm.pbone.net ，点击左侧SEARCH标签，填入包名+版本号（如：`kernel-devel-3.10.0-693.11.6.el7.x86_64`），选择对应的系统发行版本（此处为CentOS7），点击搜索
 
 ![](/images/uads/toa_201810301447.png) 
 
@@ -61,7 +67,9 @@
 
 3. 下载linux通用版的源码包，该版本支持Centos 6.9和Centos 7、ubuntu14.04等绝大多数的linux发行版,并已经适配了linux内核5.0：  
 
+
 - 国内：  wget http://pathx.ufile.ucloud.com.cn/linux_toa.tar.gz
+
 
 - 国外：  wget http://toa.ufile.ucloud.com.cn/linux_toa.tar.gz
 
