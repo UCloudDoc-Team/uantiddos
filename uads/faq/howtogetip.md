@@ -16,11 +16,17 @@
 
 1.  查看当前内核版本号，确认依赖kernel-devel、kernel-headers是否安装以及版本号是否与内核一致(uname
 -r && rpm -qa |egrep 'kernel-devel|kernel-headers')：  
+
+
 - 若一致，跳过步骤2，进行toa模块的编译安装  
+
+
 
 - 若不一致，如下图：  
 ![](/images/uads/toa_201810301429.png) 
 需要卸载后进行步骤2操作(rpm -e --nodeps kernel-devel kernel-headers)  
+
+
 
 - 若未安装依赖，如下图： 
 ![](/images/uads/toa_201810301432.png)
