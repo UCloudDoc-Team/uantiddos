@@ -14,7 +14,7 @@
 64位的linux系统可运行"modprobe toa"尝试加载模块，成功后无需其他操作。  
 如提示未找到该模块，可按如下步骤进行手工编译与加载：
 
-1. 查看当前内核版本号，确认依赖kernel-devel、kernel-headers是否安装以及版本号是否与内核一致(uname
+1.  查看当前内核版本号，确认依赖kernel-devel、kernel-headers是否安装以及版本号是否与内核一致(uname
 -r && rpm -qa |egrep 'kernel-devel|kernel-headers')：  
 - 若一致，跳过步骤2，进行toa模块的编译安装  
 - 若不一致，如下图：  
@@ -24,6 +24,8 @@
 ![](/images/uads/toa_201810301432.png)
 
   
+
+
 2. yum搜索是否有与当前内核版本对应的‘kernel-devel、kernel-headers’包  
 - 若有，则安装对用版本（yum install pkgname-version.x86_64）  
 - 若无，如下图  
@@ -50,8 +52,10 @@
 
 
 3. 下载linux通用版的源码包，该版本支持Centos 6.9和Centos 7、ubuntu14.04等绝大多数的linux发行版,并已经适配了linux内核5.0：  
-	- 国内：  wget http://pathx.ufile.ucloud.com.cn/linux_toa.tar.gz
-	- 国外：  wget http://toa.ufile.ucloud.com.cn/linux_toa.tar.gz
+
+- 国内：  wget http://pathx.ufile.ucloud.com.cn/linux_toa.tar.gz
+
+- 国外：  wget http://toa.ufile.ucloud.com.cn/linux_toa.tar.gz
 
   
 4. 编译加载  
