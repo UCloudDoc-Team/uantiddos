@@ -48,7 +48,7 @@
 
 ![](/images/uads/toa_201810301453.png)
 
-  
+
 3. 下载linux通用版的源码包，该版本支持Centos 6.9和Centos 7、ubuntu
 14.04等绝大多数的linux发行版,并已经适配了linux内核5.0：  
 - 国内：  wget http://pathx.ufile.ucloud.com.cn/linux_toa.tar.gz
@@ -72,7 +72,7 @@ toa模块安装验证如下（lsmod |grep toa）：
 
 ```
 echo "insmod /lib/modules/`uname -r`/kernel/net/netfilter/ipvs/toa.ko">> /etc/rc.local
-```  
+```
 
 **nginx环境下**，直接在nginx 日志中查看真实访问者地址,日志路径： /var/log/nginx/access.log
 
@@ -87,4 +87,4 @@ echo "insmod /lib/modules/`uname -r`/kernel/net/netfilter/ipvs/toa.ko">> /etc/rc
 ## 方式二：搭配UWAF一起使用
 
 如果不满足方式一的要求，还可以购买UWAF搭配一起使用。将域名先解析到高防，源站指定为uwaf的IP。
-操作[参见此处](uewaf/5_faq/50_ques)。
+操作[参见此处](uewaf/4_problem/40_ques)。
