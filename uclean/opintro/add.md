@@ -6,7 +6,7 @@
 
 点击【清洗升级】按钮。
 
-![](/images/uclean/opintro/添加清洗.png)
+![](/images/uclean/opintro/添加清洗1.png)
 
 地域：弹性外网IP所在的地域，比如香港。
 

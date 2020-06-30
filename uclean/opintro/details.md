@@ -2,7 +2,7 @@
 
 # 2. 查看清洗详情
 
-![](/images/uclean/opintro/清洗详情.png)
+![](/images/uclean/opintro/清洗详情1.png)
 
 清洗详情页中，支持查看清洗的基本信息、付费信息和攻击流量情况，支持调整清洗阈值，支持查看当前封堵IP和清洗IP的情况。
 
