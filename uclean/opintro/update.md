@@ -10,3 +10,4 @@ syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps
 dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps
 
 ![](/images/uclean/opintro/清洗阈值.png)
+
