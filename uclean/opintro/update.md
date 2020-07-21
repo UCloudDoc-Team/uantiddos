@@ -4,7 +4,7 @@
 
 清洗阈值可以根据EIP所绑定的不同产品进行分别编辑，目前支持ULB/NAT网关/普通EIP三类。
 
-如果选择了ULB的清洗阈值为30w pps，那么意味着当前的清洗阈值为：
+如果选择了ULB的清洗阈值为30w pps，那么意味着当前所有外网ULB的清洗阈值为：
 
 syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps
 dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps
