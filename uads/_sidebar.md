@@ -15,7 +15,8 @@
     * [2.调整高防](/uads/opintro/upgrade)
     * [3.添加IP](/uads/opintro/addip)
     * [4.添加转发规则（仅限华东BGP杭州高防使用）](/uads/opintro/addrules)
-    * [5.监控视图](/uads/opintro/dashboard)
+    * [5.添加域名白名单](/uads/opintro/adddomain)
+    * [6.监控视图](/uads/opintro/dashboard)
 * 计费说明
     * 1、产品价格
         * [华南BGP高防价格](/uads/price/prices/southern)
