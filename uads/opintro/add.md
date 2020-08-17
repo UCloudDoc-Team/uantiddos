@@ -36,10 +36,11 @@
   
     备注：
     不支持泛域名，套餐默认只支持10个域名接入。如需接入更多域名，请联系技术支持。。
-    更多参数详情请查看：[高级版](https://docs.ucloud.cn/uewaf/1_product/11_choose)说明。
+    更多参数详情请查看： [高级版](https://docs.ucloud.cn/uewaf/1_product/11_choose) 说明。
 
 
 - ***非网站接入:***采用TCP端口转发或者IP转发模式，仅提供4层攻击防护。
+
   
     备注：
     支持50条TCP转发规则，无域名数量、QPS限制。
