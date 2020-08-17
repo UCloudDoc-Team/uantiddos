@@ -14,7 +14,7 @@
     * [1.添加高防（初次购买）](/uads/opintro/add)
     * [2.调整高防](/uads/opintro/upgrade)
     * [3.添加IP](/uads/opintro/addip)
-    * [4.添加转发规则（仅限华东BGP杭州高防使用）](/uads/opintro/addrules)
+    * [4.添加转发规则（华东|华北BGP高防）](/uads/opintro/addrules)
     * [5.添加域名白名单](/uads/opintro/adddomain)
     * [6.监控视图](/uads/opintro/dashboard)
 * 计费说明
