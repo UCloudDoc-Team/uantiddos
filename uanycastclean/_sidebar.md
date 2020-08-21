@@ -9,8 +9,6 @@
     * [产品定价](/uanycastclean/buy/price) 
     * [应用场景](/uanycastclean/buy/apply)
 * 操作指南
-    * 购买AnycastEIP
-        * [申请](/uanycastclean/guide/anycasteip/allocate)
     * 防护包
         * [购买防护包](/uanycastclean/guide/uanycastclean/buyanycastclean)
         * [配置防护包策略](/uanycastclean/guide/uanycastclean/config)

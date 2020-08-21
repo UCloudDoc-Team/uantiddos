@@ -8,8 +8,6 @@
     * [产品定价](uantiddos/uanycastclean/buy/price) 
     * [应用场景](uantiddos/uanycastclean/buy/apply)
 * 操作指南
-    * 购买AnycastEIP
-      * [申请](uantiddos/uanycastclean/guide/allocate)
     * 防护包
       * [购买防护包](uantiddos/uanycastclean/guide/buyanycastclean)
       * [配置防护包策略](uantiddos/uanycastclean/guide/config)
