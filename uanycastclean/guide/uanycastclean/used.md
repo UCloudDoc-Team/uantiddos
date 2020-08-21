@@ -4,4 +4,4 @@
 
 使用过的防护包记录，在使用记录标签页中可以进行查找，具体操作步骤：在左上角选择需要查找的防护包,即可查看该防护包的使用记录。
 
-![](/images/uanycastclean/pkg9.png)
+![](/images/uanycastclean/使用记录.png)

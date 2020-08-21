@@ -8,20 +8,20 @@
 
 ## 基础信息
 基础信息页面可查看的信息有：防护包名称，资源ID，当前绑定的Anycast EIP，当前状态，防护攻击时长，总计清洗流量，总计防护次数，保底带宽。
-![](/images/uanycastclean/pkg5.png)
+![](/images/uanycastclean/基础信息.png)
 
 ## 流量分析
 流量分析页面可查看不同机房的当前流量，以机房为维度。
-![](/images/uanycastclean/pkg6.png)
+![](/images/uanycastclean/流量分析.png)
 
 ## 付费信息
 付费信息页面可查看的信息有：到期时间，计费方式，自动续包状态。
-![](/images/uanycastclean/pkg7.png)
+![](/images/uanycastclean/付费信息.png)
 
 
 ## 机房详情
 机房详情页面可查看的信息有：各机房清洗状态，最大攻击峰值，累计受攻击次数，最近攻击时间，ddos攻击详情。
-![](/images/uanycastclean/pkg8.png)
+![](/images/uanycastclean/机房详情.png)
 
 
 
