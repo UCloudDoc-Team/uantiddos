@@ -3,11 +3,11 @@
 # 配置防护包策略
 
 购买完防护包后，需要到安全策略管理标签页里去配置防护包的各项安全策略，具体步骤：在左上角下拉框中选中防护包—>在需要配置机房的那一列右边点击编辑按钮:
-![](security/uantiddos/uanycastclean/images/uanycastclean/pkg2.png)
+![](/images/uanycastclean/配置防护包策略.png)
 
 ## 策略编辑
 进入编辑策略页面后，需要对会有不同的阈值根据业务进行针对性的配置，如果对自身业务不是很确认，建议保留默认阈值：
-![](security/uantiddos/uanycastclean/images/uanycastclean/pkg3.png)
+![](/images/uanycastclean/策略编辑.png)
 
 - **机房**：当前编辑策略的机房。
 - **IP封堵**：是否需要直接封堵所有流量，默认为不封堵。
@@ -21,7 +21,7 @@
 
 ## 策略模板管理
 对于已经固定的策略模板，可以将当前防护包的策略一键同步至其他防护包，具体操作步骤：点击同步策略策略至其他防护包按钮—>勾选需要同步的防护包—>点击确认。
-![](security/uantiddos/uanycastclean/images/uanycastclean/pkg4.png)
+![](/images/uanycastclean/策略模板管理.png)
 
 
 
