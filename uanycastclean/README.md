@@ -7,6 +7,7 @@
 * 购买指南
     * [产品定价](uantiddos/uanycastclean/buy/price) 
     * [应用场景](uantiddos/uanycastclean/buy/apply)
+    * [到期说明](uantiddos/uanycastclean/buy/invalid)
 * 操作指南
     * 防护包
       * [购买防护包](uantiddos/uanycastclean/guide/buyanycastclean)

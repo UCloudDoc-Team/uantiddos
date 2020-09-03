@@ -8,6 +8,7 @@
 * 购买指南
     * [产品定价](/uanycastclean/buy/price) 
     * [应用场景](/uanycastclean/buy/apply)
+    * [到期说明](/uanycastclean/buy/invalid)
 * 操作指南
     * 防护包
         * [购买防护包](/uanycastclean/guide/uanycastclean/buyanycastclean)
