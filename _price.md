@@ -21,6 +21,6 @@ DDoS高防为您的业务提供针对DDoS攻击的基础防护和弹性防护服
 <!-- udocs:price -->
 | 地域 | 可用区 | 保底防护（Gbps） | 业务带宽（Mbps） | 周活动价（元/周） | 月活动价（元/月）| 年活动价（元/年）| 操作 |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 华东BGP | 不区分 | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 华东双线 | 不区分 | 10 | 100 | - | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 华东BGP |  | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 华东双线 |  | 10 | 100 | - | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 
