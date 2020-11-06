@@ -19,15 +19,19 @@ DDoS高防为您的业务提供针对DDoS攻击的基础防护和弹性防护服
 
 ## 产品价格
 <!-- udocs:price -->
-<<<<<<< HEAD
-| 地域 | 可用区 | 保底防护（Gbps） | 业务带宽（Mbps） | 周活动价（元/周） | 月活动价（元/月）| 年活动价（元/年）| 操作 |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 大陆 |  | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 亚太 |  | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-=======
-| 地域 |  保底防护（Gbps） | 业务带宽（Mbps） | 周活动价（元/周） | 月活动价（元/月）| 年活动价（元/年）| 操作 |
+
+| 地域 | 保底防护（Gbps） | 业务带宽（Mbps） | 周活动价（元/周） | 月活动价（元/月）| 年活动价（元/年）| 操作 |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 华东BGP | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 华东双线 | 10 | 100 | - | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
->>>>>>> 2991f2aabcfc08ae436886057c065f67bb192236
+| 广州 | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 上海 | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 北京 | 10 | 10 | 3080 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 香港 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 台北 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 东京 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 首尔 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 新加坡 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 雅加达 | 50 | 10 | 10495 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+
+
+
 
