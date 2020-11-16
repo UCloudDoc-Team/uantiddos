@@ -31,7 +31,7 @@ DDoS高防为您的业务提供针对DDoS攻击的基础防护和弹性防护服
 | 曼谷 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 新加坡 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 雅加达 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 胡志明 | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 胡志明市 | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 
 
 
