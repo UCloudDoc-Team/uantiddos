@@ -18,7 +18,7 @@
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
   * 操作指南
-    * [1.内地高防](/uads/opintro/Mainland)
+    * 1.内地高防
         * [1.1.添加高防（初次购买）](/uads/opintro/Mainland/add)
         * [1.2.添加IP](/uads/opintro/Mainland/addip)
         * [1.3.添加转发规则（华东|华北BGP高防）](/uads/opintro/Mainland/addrules)
