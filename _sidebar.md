@@ -19,20 +19,20 @@
   * [快速上手](/uantiddos/uads/common) 
   * 操作指南
     * 1.内地高防
-        * [1.1.添加高防（初次购买）](/uads/opintro/Mainland/add)
-        * [1.2.添加IP](/uads/opintro/Mainland/addip)
-        * [1.3.添加转发规则（华东|华北BGP高防）](/uads/opintro/Mainland/addrules)
-        * [1.4.添加域名白名单](/uads/opintro/Mainland/adddomain)
-    * [2.亚太高防](/uads/opintro/AsiaPacific/add)
-    * [3.调整高防](/uads/opintro/upgrade)
-    * [4.监控视图](/uads/opintro/dashboard)
+        * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/Mainland/add)
+        * [1.2.添加IP](/uantiddos/uads/opintro/Mainland/addip)
+        * [1.3.添加转发规则（华东|华北BGP高防）](/uantiddos/uads/opintro/Mainland/addrules)
+        * [1.4.添加域名白名单](/uantiddos/uads/opintro/Mainland/adddomain)
+    * [2.亚太高防](/uantiddos/uads/opintro/AsiaPacific/add)
+    * [3.调整高防](/uantiddos/uads/opintro/upgrade)
+    * [4.监控视图](/uantiddos/uads/opintro/dashboard)
 * 计费说明
   * 计费说明
     * 1.产品价格
-        * [华南BGP高防](/uads/price/prices/southern)
-        * [华东双线高防](/uads/price/prices/east)
-        * [华东|华北BGP高防](/uads/price/prices/bgp)
-        * [亚太高防](/uads/price/prices/AsiaPacific)
+        * [华南BGP高防](/uantiddos/uads/prices/southern)
+        * [华东双线高防](/uantiddos/uads/prices/east)
+        * [华东|华北BGP高防](/uantiddos/uads/prices/bgp)
+        * [亚太高防](/uantiddos/uads/prices/AsiaPacific)
   * [2. 到期说明](/uantiddos/uads/price/invalid)
   * [3. 升降级高防服务](/uantiddos/uads/price/upgrade)
   * [使用注意事项](/uantiddos/uads/warning)
