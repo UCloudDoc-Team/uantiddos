@@ -7,7 +7,7 @@
   * [UCloud黑洞策略](/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](/uantiddos/usecurity/check_ddos)
   * [FAQ](/uantiddos/usecurity/faq)
-* [高防 UADS](/uantiddos/uads/overview.md)
+* [内地高防](/uantiddos/uads/overview.md)
   * 产品简介
     * [产品概述](/uantiddos/uads/concepts/overview) 
     * [名词解释](/uantiddos/uads/concepts/term) 
@@ -17,28 +17,38 @@
     * [IP配额](/uantiddos/uads/concepts/ipnumbers)
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
+  * 计费说明
+      * [华南BGP高防价格](uantiddos/uads/prices/southern)
+      * [华东双线高防价格](uantiddos/uads/prices/east)
+      * [华东|华北BGP高防](uantiddos/uads/prices/bgp)
   * 操作指南
-    * 1.内地高防
+    * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/Mainland/add)
         * [1.2.添加IP](/uantiddos/uads/opintro/Mainland/addip)
         * [1.3.添加转发规则（华东|华北BGP高防）](/uantiddos/uads/opintro/Mainland/addrules)
         * [1.4.添加域名白名单](/uantiddos/uads/opintro/Mainland/adddomain)
-    * [2.亚太高防](/uantiddos/uads/opintro/AsiaPacific/add)
-    * [3.调整高防](/uantiddos/uads/opintro/upgrade)
-    * [4.监控视图](/uantiddos/uads/opintro/dashboard)
-* 计费说明
-  * 计费说明
-    * 1.产品价格
-        * [华南BGP高防](/uantiddos/uads/prices/southern)
-        * [华东双线高防](/uantiddos/uads/prices/east)
-        * [华东|华北BGP高防](/uantiddos/uads/prices/bgp)
-        * [亚太高防](/uantiddos/uads/prices/AsiaPacific)
-  * [2. 到期说明](/uantiddos/uads/price/invalid)
-  * [3. 升降级高防服务](/uantiddos/uads/price/upgrade)
-  * [使用注意事项](/uantiddos/uads/warning)
+    * [2.调整高防](/uantiddos/uads/opintro/upgrade)
+    * [3.监控视图](/uantiddos/uads/opintro/dashboard)
+    * [4.到期说明](/uantiddos/uads/price/invalid)
+    * [5.升降级高防服务](/uantiddos/uads/price/upgrade)
+    * [6.使用注意事项](/uantiddos/uads/warning)
   * FAQ
     * [常见问题](/uantiddos/uads/faq/game)
-    * [如何获取用户的真实IP地址？](/uantiddos/uads/faq/howtogetip)
+    * [如何获取用户的真实IP地址](/uantiddos/uads/faq/howtogetip)
+* [亚太高防](/uantiddos/AsiaPacific/overview.md)
+  * 产品简介
+    * [产品概述](/uantiddos/AsiaPacific/concepts/overview) 
+    * [产品价格](/uantiddos/AsiaPacific/prices/AsiaPacific)
+    * [升级记录](/uantiddos/AsiaPacific/concepts/change)
+  * 操作指南
+    * [1.创建高防](/uantiddos/AsiaPacific/opintro/AsiaPacific/add)
+    * [2.调整高防](/uantiddos/AsiaPacific/opintro/upgrade)
+    * [3.监控视图](/uantiddos/AsiaPacific/opintro/dashboard)
+    * [4.到期说明](/uantiddos/AsiaPacific/price/invalid)
+    * [5.升降级高防服务](/uantiddos/AsiaPacific/price/upgrade)
+
+  * FAQ
+    * [常见问题](/uantiddos/uads/faq/game)
 * [清洗 UClean](/uantiddos/uclean/overview.md)
   * 产品简介
     * [产品概述](/uantiddos/uclean/concepts/overview) 

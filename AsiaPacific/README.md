@@ -19,13 +19,13 @@
     * 1.产品价格
       * [华南BGP高防价格](uantiddos/uads/prices/southern)
       * [华东双线高防价格](uantiddos/uads/prices/east)
-      * [华东|华北BGP高防](uantiddos/uads/prices/bgp)
+      * [华东BGP高防](uantiddos/uads/prices/bgp)
 * [2. 到期说明](uantiddos/uads/price/invalid)
 * [3. 升降级高防服务](uantiddos/uads/price/upgrade)
 * [使用注意事项](uantiddos/uads/warning)
 * FAQ
     * [常见问题](uantiddos/uads/faq/game)
-    * [如何获取用户的真实IP地址](uantiddos/uads/faq/howtogetip)
+    * [如何获取用户的真实IP地址？](uantiddos/uads/faq/howtogetip)
     
    
    
