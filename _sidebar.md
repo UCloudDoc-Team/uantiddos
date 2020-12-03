@@ -42,7 +42,7 @@
     * [产品价格](/uantiddos/uads-apac/price/price)
     * [升级记录](/uantiddos/uads-apac/concepts/change)
   * 操作指南
-    * [1.创建高防](/uantiddos/uads-apac/opintro/uads-apac/add)
+    * [1.创建高防](/uantiddos/uads-apac/opintro/add)
     * [2.调整高防](/uantiddos/uads-apac/opintro/upgrade)
     * [3.监控视图](/uantiddos/uads-apac/opintro/dashboard)
     * [4.到期说明](/uantiddos/uads-apac/price/invalid)

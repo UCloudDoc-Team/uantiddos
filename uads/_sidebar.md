@@ -16,7 +16,7 @@
         * [1.2.添加IP](/uads/opintro/Mainland/addip)
         * [1.3.添加转发规则（华东|华北BGP高防）](/uads/opintro/Mainland/addrules)
         * [1.4.添加域名白名单](/uads/opintro/Mainland/adddomain)
-    * [2.亚太高防](/uads/opintro/uads-apac/add)
+    * [2.亚太高防](/uads/opintro/add)
     * [3.调整高防](/uads/opintro/upgrade)
     * [4.监控视图](/uads/opintro/dashboard)
 * 计费说明
