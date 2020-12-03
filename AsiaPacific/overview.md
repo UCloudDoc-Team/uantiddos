@@ -16,4 +16,4 @@
     * [5.到期说明](/uantiddos/AsiaPacific/price/invalid)
     * [6.升降级高防服务](/uantiddos/AsiaPacific/price/upgrade)
     
-    * [7.常见问题](/uantiddos/uads/faq/game)
+    * [7.常见问题](/uantiddos/AsiaPacific/faq/game)
