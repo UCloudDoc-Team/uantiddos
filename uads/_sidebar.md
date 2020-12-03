@@ -1,4 +1,4 @@
-<div class="sidebar_title"> DDoS攻击防护-高防 UADS</div>
+<div class="sidebar_title"> DDoS攻击防护-内地高防 UADS</div>
 
 * [概览](/uads/README)
 * 产品简介

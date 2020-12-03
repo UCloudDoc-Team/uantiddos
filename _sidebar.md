@@ -35,7 +35,8 @@
   * FAQ
     * [常见问题](/uantiddos/uads/faq/game)
     * [如何获取用户的真实IP地址](/uantiddos/uads/faq/howtogetip)
-* [亚太高防](/uantiddos/AsiaPacific/overview.md)
+* [亚太高防 UADS-APAC](/uantiddos/AsiaPacific/overview.md)
+  
   * 产品简介
     * [产品概述](/uantiddos/AsiaPacific/concepts/overview) 
     * [产品价格](/uantiddos/AsiaPacific/prices/AsiaPacific)
@@ -45,10 +46,10 @@
     * [2.调整高防](/uantiddos/AsiaPacific/opintro/upgrade)
     * [3.监控视图](/uantiddos/AsiaPacific/opintro/dashboard)
     * [4.到期说明](/uantiddos/AsiaPacific/price/invalid)
-    * [5.升降级高防服务](/uantiddos/AsiaPacific/price/upgrade)
-
+  * [5.升降级高防服务](/uantiddos/AsiaPacific/price/upgrade)
+  
   * FAQ
-    * [常见问题](/uantiddos/uads/faq/game)
+    * [常见问题](/uantiddos/AsiaPacific/faq/game)
 * [清洗 UClean](/uantiddos/uclean/overview.md)
   * 产品简介
     * [产品概述](/uantiddos/uclean/concepts/overview) 
