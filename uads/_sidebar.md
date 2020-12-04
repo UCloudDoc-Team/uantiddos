@@ -24,7 +24,6 @@
         * [华南BGP高防](/uads/price/prices/southern)
         * [华东双线高防](/uads/price/prices/east)
         * [华东|华北BGP高防](/uads/price/prices/bgp)
-        * [亚太高防](/uads/price/prices/uads-apac)
     * [2. 到期说明](/uads/price/invalid)
     * [3. 升降级高防服务](/uads/price/upgrade)
 * [使用注意事项](/uads/warning)
