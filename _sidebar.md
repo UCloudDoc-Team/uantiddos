@@ -18,9 +18,9 @@
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
   * 计费说明
-      * [华南BGP高防价格](uantiddos/uads/prices/southern)
-      * [华东双线高防价格](uantiddos/uads/prices/east)
-      * [华东|华北BGP高防](uantiddos/uads/prices/bgp)
+      * [华南BGP高防价格](uantiddos/uads/price/southern)
+      * [华东双线高防价格](uantiddos/uads/price/east)
+      * [华东|华北BGP高防](uantiddos/uads/price/bgp)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/Mainland/add)
