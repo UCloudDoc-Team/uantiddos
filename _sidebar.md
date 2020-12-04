@@ -7,7 +7,7 @@
   * [UCloud黑洞策略](/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](/uantiddos/usecurity/check_ddos)
   * [FAQ](/uantiddos/usecurity/faq)
-* [内地高防](/uantiddos/uads/overview.md)
+* [内地高防](/uantiddos/uads/overview)
   * 产品简介
     * [产品概述](/uantiddos/uads/concepts/overview) 
     * [名词解释](/uantiddos/uads/concepts/term) 
@@ -18,18 +18,18 @@
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
   * 计费说明
-      * [华南BGP高防价格](uantiddos/uads/price/southern)
-      * [华东双线高防价格](uantiddos/uads/price/east)
-      * [华东|华北BGP高防](uantiddos/uads/price/bgp)
+      * [华南BGP高防价格](/uantiddos/uads/price/southern)
+      * [华东双线高防价格](/uantiddos/uads/price/east)
+      * [华东|华北BGP高防](/uantiddos/uads/price/bgp)
   * 操作指南
     * 1.创建高防
-        * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/Mainland/add)
-        * [1.2.添加IP](/uantiddos/uads/opintro/Mainland/addip)
-        * [1.3.添加转发规则（华东|华北BGP高防）](/uantiddos/uads/opintro/Mainland/addrules)
-        * [1.4.添加域名白名单](/uantiddos/uads/opintro/Mainland/adddomain)
+        * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
+        * [1.2.添加IP](/uantiddos/uads/opintro/addip)
+        * [1.3.添加转发规则（华东|华北BGP高防）](/uantiddos/uads/opintro/addrules)
+        * [1.4.添加域名白名单](/uantiddos/uads/opintro/adddomain)
     * [2.调整高防](/uantiddos/uads/opintro/upgrade)
     * [3.监控视图](/uantiddos/uads/opintro/dashboard)
-    * [4.到期说明](/uantiddos/uads/price/invalid)
+    * [4.到期说明](/uantiddos/uads/opintro/invalid)
     * [5.升降级高防服务](/uantiddos/uads/price/upgrade)
     * [6.使用注意事项](/uantiddos/uads/warning)
   * FAQ
@@ -45,7 +45,7 @@
     * [1.创建高防](/uantiddos/uads-apac/opintro/add)
     * [2.调整高防](/uantiddos/uads-apac/opintro/upgrade)
     * [3.监控视图](/uantiddos/uads-apac/opintro/dashboard)
-    * [4.到期说明](/uantiddos/uads-apac/price/invalid)
+    * [4.到期说明](/uantiddos/uads-apac/opintro/invalid)
     * [5.升降级高防服务](/uantiddos/uads-apac/price/upgrade)
   
   * FAQ

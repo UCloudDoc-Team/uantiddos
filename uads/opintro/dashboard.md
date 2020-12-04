@@ -1,6 +1,6 @@
 
 
-# 5.监控视图
+# 3.监控视图
 
 
 ![](/images/uads/opintro/game/概览1.png)
