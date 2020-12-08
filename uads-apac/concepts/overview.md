@@ -14,7 +14,7 @@
 | 防护类型             | 描述                                                         |
 | -------------------- | ------------------------------------------------------------ |
 | 畸形报文过滤         | 过滤 frag flood，smurf，stream flood，land flood 攻击，过滤 IP 畸形包、TCP 畸形包、UDP 畸形包 |
-| 网络层 DDoS 攻击防护 | 过滤 UDP Flood、SYN Flood、TCP Flood、ICMP Flood、ACK Flood、FIN Flood、RST Flood、DNS/NTP/SSDP 等反射攻击、空连接 |
+| 网络层 DDoS 攻击防护 | 过滤 UDP Flood、SYN Flood、TCP Flood、ICMP Flood、ACK Flood、FIN Flood、RST Flood、DNS/NTP/SSDP 等反射攻击 |
 
 
 ## 使用场景
