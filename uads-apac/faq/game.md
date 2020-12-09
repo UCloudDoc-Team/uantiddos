@@ -8,7 +8,12 @@
 
 ## 2. 亚太高防能抗多少层的攻击？
 
-可以有效防御3-4层攻击。有效防御 frag flood，smurf，stream flood，land flood 攻击， IP 畸形包、TCP 畸形包、UDP 畸形包， UDP Flood、SYN Flood、TCP Flood、ICMP Flood、ACK Flood、FIN Flood、RST Flood、DNS/NTP/SSDP 等反射攻击、空连接。
+可以有效防御3-4层攻击。具体支持类型如下:
+| 防护类型             | 描述                                                         |
+| -------------------- | ------------------------------------------------------------ |
+| 畸形报文攻击         | 支持TearDrop, IpLand, Smurf, Fraggle等攻击的清洗以及 IP/TCP/UDP畸形包过滤 |
+| 泛洪攻击            |针对 Udp Flood, SYN Flood, Icmp Flood, ACK Flood, FIN Flood, RST Flood等泛洪攻击进行防护 |
+| 反射放大攻击         |提供对Dns, Ntp, Ssdp, Memcached, Chargen,  Cldap, 等反射攻击清洗 |
 
 ## 3. 购买服务后，没有受到攻击收不收费？
 
