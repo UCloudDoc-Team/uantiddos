@@ -17,7 +17,7 @@
 | -------------------- | ------------------------------------------------------------ |
 | 畸形报文攻击         | 支持TearDrop, IpLand, Smurf, Fraggle等攻击的清洗以及 IP/TCP/UDP畸形包过滤 |
 | 泛洪攻击            |针对 Udp Flood, SYN Flood, Icmp Flood, ACK Flood, FIN Flood, RST Flood等泛洪攻击进行防护 |
-| 反射放大攻击         |提供对Dns, Ntp, Ssdp, Memcached, Chargen,  Cldap, 等反射攻击清洗 |
+| 反射放大攻击         |提供对Dns, Ntp, Ssdp, Memcached, Chargen,  Cldap等反射攻击清洗 |
 
 
 ## 使用场景

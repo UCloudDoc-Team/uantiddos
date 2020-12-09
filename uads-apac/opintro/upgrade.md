@@ -2,7 +2,7 @@
 
 # 2.调整高防
 
-![](/images/uads/opintro/game/调整高防.png)
+![](/images/uads/opintro/game/亚太调整高防.png)
 
 注意：
 
