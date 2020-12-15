@@ -9,12 +9,12 @@
     * [应用场景](uantiddos/uanycastclean/buy/apply)
     * [到期说明](uantiddos/uanycastclean/buy/invalid)
 * 操作指南
-    * 防护包
-      * [购买防护包](uantiddos/uanycastclean/guide/buyanycastclean)
-      * [配置防护包策略](uantiddos/uanycastclean/guide/config)
-      * [查看清洗详情](uantiddos/uanycastclean/guide/check)
-      * [查看防护包使用记录](uantiddos/uanycastclean/guide/used)
-   
+    * [购买防护包](uantiddos/uanycastclean/guide/buyanycastclean)
+    * [绑定防护资源](/uantiddos/uanycastclean/guide/allocate)
+    * [配置防护包策略](uantiddos/uanycastclean/guide/config)
+    * [查看清洗详情](uantiddos/uanycastclean/guide/check)
+    * [查看防护包使用记录](uantiddos/uanycastclean/guide/used)
+
     
    
    
