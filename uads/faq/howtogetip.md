@@ -68,10 +68,10 @@
 3. 下载linux通用版的源码包，该版本支持Centos 6.9和Centos 7、ubuntu14.04等绝大多数的linux发行版,并已经适配了linux内核5.0：  
 
 
-- 国内：  wget http://pathx.ufile.ucloud.com.cn/linux_toa.tar.gz
+- 国内：  wget http://pathx.cn-bj.ufileos.com/linux_toa.tar.gz
 
 
-- 国外：  wget http://toa.ufile.ucloud.com.cn/linux_toa.tar.gz
+- 海外：  wget http://toa.hk.ufileos.com/linux_toa.tar.gz
 
   
 4. 编译加载  
