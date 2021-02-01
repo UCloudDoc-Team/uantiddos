@@ -20,10 +20,7 @@
     * [3.调整高防](/uads/opintro/upgrade)
     * [4.监控视图](/uads/opintro/dashboard)
 * 计费说明
-    * 1、产品价格
-        * [华南BGP高防](/uads/price/southern)
-        * [华东双线高防](/uads/price/east)
-        * [华东|华北BGP高防](/uads/price/bgp)
+    * [1.BGP高防计费方式](/uads/price/bgp)
     * [2. 到期说明](/uads/opintro/invalid)
     * [3. 升降级高防服务](/uads/price/upgrade)
 * [使用注意事项](/uads/warning)
