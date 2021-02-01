@@ -23,7 +23,7 @@
 
 在【安全防护】-【DDoS攻击防护 UDDoS】-【高防】页面，点击“详情”-“IP管理”-“添加IP”。注意 **下图适用台州BGP。杭州杭州BGP配置请见[操作指南-添加转发规则](uantiddos/uads/opintro/addrules)**。
 
-![](/images/uads/V4自建添加IP.png)
+![](/images/uads/opintro/game/配置源站IP.png)
 
 
 **高防线路：**
