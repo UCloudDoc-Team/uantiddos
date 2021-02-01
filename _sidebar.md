@@ -8,18 +8,17 @@
   * [FAQ](/uantiddos/usecurity/faq)
 * [内地高防](/uantiddos/uads/overview)
   * 产品简介
-    * [产品概述](/uantiddos/uads/concepts/overview) 
-    * [名词解释](/uantiddos/uads/concepts/term) 
+    * [产品概述](/uantiddos/uads/concepts/overview)
+    * [名词解释](/uantiddos/uads/concepts/term)
     * [产品优势](/uantiddos/uads/concepts/advantage)
     * [主要功能](/uantiddos/uads/concepts/function)
     * [升级记录](/uantiddos/uads/concepts/change)
     * [IP配额](/uantiddos/uads/concepts/ipnumbers)
   * [架构和原理简介](/uantiddos/uads/architecture)
-  * [快速上手](/uantiddos/uads/common) 
+  * [快速上手](/uantiddos/uads/common)
   * 计费说明
       * [华南BGP高防价格](/uantiddos/uads/price/southern)
-      * [华东双线高防价格](/uantiddos/uads/price/east)
-      * [华东|华北BGP高防](/uantiddos/uads/price/bgp)
+      * [华东BGP高防](/uantiddos/uads/price/bgp)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
@@ -37,7 +36,7 @@
 * [亚太高防 UADS-APAC](/uantiddos/uads-apac/overview.md)
   
   * 产品简介
-    * [产品概述](/uantiddos/uads-apac/concepts/overview) 
+    * [产品概述](/uantiddos/uads-apac/concepts/overview)
     * [产品价格](/uantiddos/uads-apac/price/price)
     * [升级记录](/uantiddos/uads-apac/concepts/change)
   * 操作指南
