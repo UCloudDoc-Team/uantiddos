@@ -3,7 +3,7 @@
 # 1.3 添加转发规则（杭州BGP高防）
 ##  添加域名转发规则
 购买高防-\>选择“华东BGP 杭州”线路高防-\>购买成功-\>详情-\>IP管理-\>管理。
-配置[域名转发策略、CC防护规则](https://docs.ucloud.cn/uewaf/3_opintro/31_domain).
+配置[域名转发策略、CC防护规则](https://docs.ucloud.cn/uewaf/features/rule/UWAF_rule).
 ##  添加IP或TCP转发规则 
 
 购买高防-\>选择对应线路高防-\>购买成功-\>详情-\>IP管理-\>添加IP-\>确定-\>高防IP添加成功。
