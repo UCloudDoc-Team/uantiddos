@@ -59,6 +59,7 @@
     * [2. 查看清洗详情](/uantiddos/uclean/opintro/details)
     * [3. 清洗升级](/uantiddos/uclean/opintro/upgrade)
     * [4. 清洗降级](/uantiddos/uclean/opintro/degrade)
+    * [5. 清洗阈值调整](/uantiddos/uclean/opintro/update)
   * [产品价格](/uantiddos/uclean/price)
   * [FAQ](/uantiddos/uclean/faq)
 * [全球清洗 UAnycastClean](/uantiddos/uanycastclean/overview.md)
@@ -76,6 +77,8 @@
     * [配置防护包策略](/uantiddos/uanycastclean/guide/config)
     * [查看清洗详情](/uantiddos/uanycastclean/guide/check)
     * [查看防护包使用记录](/uantiddos/uanycastclean/guide/used)
+      
+      
       
       
       
