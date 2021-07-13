@@ -24,7 +24,7 @@
 
 | 地域名称 | 免费清洗上限 |
 | ---- | ------ |
-|北京| 3Gbps |
+|华北（北京）| 3Gbps |
 |上海| 2Gbps|
 |广州| 2Gbps|
 |香港| 1Gbps, 回内地线路800Mbp|
@@ -52,7 +52,7 @@
 
 | 地域名称 | 默认清洗阈值 |
 | ---- | ------ |
-| 北京| syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps |
+| 华北（北京）| syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps |
 |上海| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
 |广州| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
 |香港| syn:20wpps,ack:20wpps,icmp:2wpps,udp:20wpps<br>dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps|
