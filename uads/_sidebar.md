@@ -14,14 +14,14 @@
     * [1.内地高防](/uads/opintro)
         * [1.1.添加高防（初次购买）](/uads/opintro/add)
         * [1.2.添加IP](/uads/opintro/addip)
-        * [1.3.添加转发规则（杭州/枣庄高防）](/uads/opintro/addrules)
+        * [1.3.添加转发规则（杭州|枣庄高防）](/uads/opintro/addrules)
         * [1.4.添加域名白名单](/uads/opintro/adddomain)
     * [2.亚太高防](/uads/opintro/add)
     * [3.调整高防](/uads/opintro/upgrade)
     * [4.监控视图](/uads/opintro/dashboard)
 * 计费说明
     * [1.BGP高防计费方式]
-      * [杭州/台州机房](uantiddos/uads/price/bgp)
+      * [杭州|台州机房](uantiddos/uads/price/bgp)
       * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
     * [2. 到期说明](/uads/opintro/invalid)
     * [3. 升降级高防服务](/uads/price/upgrade)
