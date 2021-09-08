@@ -7,7 +7,7 @@
     * [产品优势](/uads/concepts/advantage)
     * [主要功能](/uads/concepts/function)
     * [升级记录](/uads/concepts/change)
-    * [IP配额](/uads/concepts/ipnumbers)
+    * [高防机房差异说明](/uads/concepts/ipnumbers)
 * [架构和原理简介](/uads/architecture)
 * [快速上手](/uads/common) 
 * 操作指南
@@ -20,7 +20,9 @@
     * [3.调整高防](/uads/opintro/upgrade)
     * [4.监控视图](/uads/opintro/dashboard)
 * 计费说明
-    * [1.BGP高防计费方式](/uads/price/bgp)
+    * [1.BGP高防计费方式]
+      * [杭州/台州机房](uantiddos/uads/price/bgp)
+      * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
     * [2. 到期说明](/uads/opintro/invalid)
     * [3. 升降级高防服务](/uads/price/upgrade)
 * [使用注意事项](/uads/warning)
