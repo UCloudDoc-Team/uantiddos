@@ -14,7 +14,7 @@
     * [1.内地高防](/uads/opintro)
         * [1.1.添加高防（初次购买）](/uads/opintro/add)
         * [1.2.添加IP](/uads/opintro/addip)
-        * [1.3.添加转发规则（华东|华北BGP高防）](/uads/opintro/addrules)
+        * [1.3.添加转发规则（杭州/枣庄高防）](/uads/opintro/addrules)
         * [1.4.添加域名白名单](/uads/opintro/adddomain)
     * [2.亚太高防](/uads/opintro/add)
     * [3.调整高防](/uads/opintro/upgrade)

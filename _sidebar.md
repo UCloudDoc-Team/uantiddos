@@ -13,17 +13,17 @@
     * [产品优势](/uantiddos/uads/concepts/advantage)
     * [主要功能](/uantiddos/uads/concepts/function)
     * [升级记录](/uantiddos/uads/concepts/change)
-    * [IP配额](/uantiddos/uads/concepts/ipnumbers)
+    * [高防机房差异说明](/uantiddos/uads/concepts/ipnumbers)
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common)
   * 计费说明
-      * [华南BGP高防](/uantiddos/uads/price/southern)
-      * [华东BGP高防](/uantiddos/uads/price/bgp)
+      * [杭州/台州机房](uantiddos/uads/price/bgp)
+      * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
         * [1.2.添加IP](/uantiddos/uads/opintro/addip)
-        * [1.3.添加转发规则（杭州BGP高防）](/uantiddos/uads/opintro/addrules)
+        * [1.3.添加转发规则（杭州/枣庄高防）](/uantiddos/uads/opintro/addrules)
         * [1.4.添加域名白名单](/uantiddos/uads/opintro/adddomain)
     * [2.调整高防](/uantiddos/uads/opintro/upgrade)
     * [3.监控视图](/uantiddos/uads/opintro/dashboard)
@@ -79,7 +79,6 @@
     * [配置防护包策略](/uantiddos/uanycastclean/guide/config)
     * [查看清洗详情](/uantiddos/uanycastclean/guide/check)
     * [查看防护包使用记录](/uantiddos/uanycastclean/guide/used)
-      
       
       
       
