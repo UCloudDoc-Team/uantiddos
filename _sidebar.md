@@ -5,6 +5,7 @@
 * [基础防护](/uantiddos/usecurity/overview.md)
   * [UCloud黑洞策略](/uantiddos/usecurity/datacenter)
   * [主机对外DDoS自查](/uantiddos/usecurity/check_ddos)
+  * [封堵清洗告警通知](/uantiddos/usecurity/ddos_api)
   * [FAQ](/uantiddos/usecurity/faq)
 * [内地高防](/uantiddos/uads/overview)
   * 产品简介
