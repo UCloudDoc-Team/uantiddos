@@ -4,7 +4,7 @@
 * [DDoS攻击防护 UDDoS](/uantiddos/uantiddos)
 * [基础防护](/uantiddos/usecurity/overview.md)
   * [UCloud黑洞策略](/uantiddos/usecurity/datacenter)
-  * [封堵清洗告警回调说明](/usecurity/ddos_api)
+  * [封堵清洗告警回调说明](/uantiddos//usecurity/ddos_api)
   * [主机对外DDoS自查](/uantiddos/usecurity/check_ddos)
   * [FAQ](/uantiddos/usecurity/faq)
 * [内地高防](/uantiddos/uads/overview)
