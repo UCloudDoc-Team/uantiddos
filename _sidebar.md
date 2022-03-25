@@ -19,7 +19,7 @@
   * [快速上手](/uantiddos/uads/common)
   * 计费说明
       * [杭州|台州机房](uantiddos/uads/price/bgp)
-      * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
+      * [枣庄|石家庄机房](uantiddos/uads/price/zaozhuang-price)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)

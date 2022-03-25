@@ -22,7 +22,7 @@
 * 计费说明
     * [1.BGP高防计费方式]
       * [杭州|台州机房](uantiddos/uads/price/bgp)
-      * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
+      * [枣庄|石家庄机房](uantiddos/uads/price/zaozhuang-price)
     * [2. 到期说明](/uads/opintro/invalid)
     * [3. 升降级高防服务](/uads/price/upgrade)
 * [使用注意事项](/uads/warning)
