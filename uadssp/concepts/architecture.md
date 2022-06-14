@@ -2,7 +2,7 @@
 
 # 技术架构
 
-## DDoS攻击简介
+## DDoS攻击
 
 拒绝服务攻击（英语：Denial of Service
 Attack，缩写：DoS）亦称洪水攻击，是一种网络攻击手法，其目的在于使目标电脑的网络或系统资源耗尽，使服务暂时中断或停止，导致其对目标客户不可用。
@@ -10,13 +10,13 @@ Attack，缩写：DoS）亦称洪水攻击，是一种网络攻击手法，其�
 分布式拒绝服务攻击（英语：Distributed Denial of Service
 attack，缩写：DDoS），是黑客使用网络上两个或以上被攻陷的电脑作为“僵尸”向特定的目标发动拒绝服务攻击。
 
-## 高防原理简介
+## 高防原理
 
 高防服务是针对互联网服务器（包括非UCloud云主机）在遭受大流量的DDoS攻击后导致服务不可用的情况，推出的一款增值防护服务。该服务可为客户提供DDoS、CC等攻击的防护能力，可防护SYN
 Flood、ACK Flood、UDP Flood、ICMP Flood、连接耗尽攻击、DNS Request/Response
 Flood、HTTP Get/Post Flood等3到7层的攻击。
 
-![](/images/uadssp/高防架构.png)
+![](/images/uadssp/concepts/高防架构.png)
 
 正常的时候用户直接访问源站。
 
