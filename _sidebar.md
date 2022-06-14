@@ -91,7 +91,7 @@
     * [什么是抗D服务包](/uantiddos/uadssp/concepts/overview.md) 
     * [技术架构](/uantiddos/uadssp/concepts/architecture)
     * [使用限制](/uantiddos/uadssp/concepts/limit)
-    * [应用场景](/uantiddos/uadssp/buy/apply)
+    * [应用场景](/uantiddos/uadssp/concepts/appliance)
     * [升级记录](/uantiddos/uadssp/concepts/change)
   
   * 计费说明
