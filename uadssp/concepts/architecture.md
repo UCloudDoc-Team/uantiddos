@@ -48,7 +48,7 @@ Flood、HTTP Get/Post Flood等3到7层的攻击。
 
 - **防护前**
 
-  在防护规则未激活时，业务是直连到联动EIP的，此时可以[手动激活](/uadssp/opintro/manuanl_activate_rule.md)，也可以自动激活（自动激活规则见下表）。激活成功后业务自动接入DDos高防。
+  在防护规则未激活时，业务是直连到联动EIP的，此时可以[手动激活](/uantiddos/uadssp/opintro/manuanl_activate_rule.md)，也可以自动激活（自动激活规则见下表）。激活成功后业务自动接入DDos高防。
 
     | 切换规则 | 描述                                |
     | ------- | ---------------------------------- |
@@ -57,7 +57,7 @@ Flood、HTTP Get/Post Flood等3到7层的攻击。
 
 - **防护中**
 
-  当业务处于DDos防护中时，可以通过[切换cname](chason.luo)在高防IP和联动EIP之间互相切换。如果已经切到联动EIP，发生上述的自动激活时，也会切到高防IP。
+  当业务处于DDos防护中时，可以通过**切换cname**在高防IP和联动EIP之间互相切换。如果已经切到联动EIP，发生上述的自动激活时，也会切到高防IP。
 
 - **防护过期**
 
