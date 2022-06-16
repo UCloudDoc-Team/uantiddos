@@ -1,6 +1,6 @@
 
 
-# 查看服务日志
+# 服务日志管理
 
 
 ![](/images/uadssp/opintro/service_log.png)
