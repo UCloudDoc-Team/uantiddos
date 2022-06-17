@@ -100,7 +100,7 @@
     * [到期说明](/uantiddos/uadssp/bill/expire)
   
   * 操作指南
-    *  [ 服务包管理 ]( /uantiddos/uadssp/opintro/pkg_mgmt )
+    * [服务包管理](/uantiddos/uadssp/opintro/pkg_mgmt)
       * [购买服务包](/uantiddos/uadssp/opintro/buy_adssp)
       * [删除服务包](/uantiddos/uadssp/opintro/delete_adssp)
       * [续费服务包](/uantiddos/uadssp/opintro/rebuy_adssp)
