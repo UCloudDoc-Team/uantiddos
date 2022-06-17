@@ -8,5 +8,5 @@
 
 在抗D服务包页面点击防护白名单按钮：
 
-![](/images/uads/opintro/domain_mgmt.png)
+![](/images/uadssp/opintro/domain_mgmt.png)
 
