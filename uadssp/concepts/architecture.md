@@ -12,9 +12,7 @@ attack，缩写：DDoS），是黑客使用网络上两个或以上被攻陷的�
 
 ## 高防原理
 
-高防服务是针对互联网服务器（包括非UCloud云主机）在遭受大流量的DDoS攻击后导致服务不可用的情况，推出的一款增值防护服务。该服务可为客户提供DDoS、CC等攻击的防护能力，可防护SYN
-Flood、ACK Flood、UDP Flood、ICMP Flood、连接耗尽攻击、DNS Request/Response
-Flood、HTTP Get/Post Flood等3到7层的攻击。
+高防服务是针对互联网服务器（包括非UCloud云主机）在遭受大流量的DDoS攻击后导致服务不可用的情况，推出的一款增值防护服务。该服务可为客户提供3-4层DDoS的防护能力，包括SYN Flood、ACK Flood、UDP Flood、ICMP Flood等。
 
 ![](/images/uadssp/concepts/高防架构.png)
 
