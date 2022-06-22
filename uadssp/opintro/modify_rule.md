@@ -9,3 +9,7 @@
 
 ![](/images/uadssp/opintro/modify_rule.png)
 
+修改界面中可以配置的内容 如下图
+
+![](/images/uadssp/opintro/modify_rule_detail.png)
+
