@@ -48,7 +48,7 @@ Flood、HTTP Get/Post Flood等3到7层的攻击。
 
 - **防护前**
 
-  在防护规则未激活时，业务是直连到联动EIP的，此时可以[手动激活](/uantiddos/uadssp/opintro/manuanl_activate_rule.md)，也可以自动激活（自动激活规则见下表）。激活成功后业务自动接入DDos高防。
+  在防护规则未激活时，业务是直连到联动EIP的，此时可以[手动激活](/uantiddos/uadssp/opintro/activate_rule.md)，也可以自动激活（自动激活规则见下表）。激活成功后业务自动接入DDos高防。
 
     | 切换规则 | 描述                                |
     | ------- | ---------------------------------- |
