@@ -32,7 +32,7 @@
   * FAQ
     * [常见问题](/uantiddos/uads/faq/game)
     * [如何获取用户的真实IP地址](/uantiddos/uads/faq/howtogetip)
-* [亚太高防 UADS-APAC](/uantiddos/uads-apac/overview.md)
+* [海外高防](/uantiddos/uads-apac/overview.md)
   
   * 产品简介
     * [产品概述](/uantiddos/uads-apac/concepts/overview) 

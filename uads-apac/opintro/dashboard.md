@@ -3,7 +3,7 @@
 # 3.监控视图
 
 
-![](/images/uads/opintro/game/概览1.png)
+![](/images/uads-apac/概览.png)
 
 表1.基本信息
 
