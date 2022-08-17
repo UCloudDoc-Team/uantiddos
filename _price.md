@@ -24,15 +24,20 @@ DDoS高防为您的业务提供针对DDoS攻击的基础防护和弹性防护服
 | 广州 | 10 | 10 | 3079.44 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 上海二 | 10 | 10 | 3079.44 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 华北一 | 10 | 10 | 3079.44 | 8800 | 88000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 香港 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 台北 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 中国香港 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 中国台北 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 东京 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 首尔 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 曼谷 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 新加坡 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 雅加达 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 胡志明市 | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-
+| 雅加达 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 法兰克福 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 洛杉矶 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 莫斯科 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 华盛顿 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 伦敦 | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 
 
 
