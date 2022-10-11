@@ -1,15 +1,19 @@
 # 5. 清洗阈值调整
 
-根据自己的业务类型，可以自助调整清洗阈值。
+根据自身业务类型，可自助调整清洗阈值。
 
-如下图，选择相应的地域，进入详情页。
+选择地域，点击详情按钮，进入详情页。
 
-清洗阈值可以根据EIP所绑定的不同产品进行分别编辑，目前支持ULB/NAT网关/普通EIP三类。
+![](/images/uclean/opintro/清洗阈值调整.png)
 
-如果选择了ULB的清洗阈值为30w pps，那么意味着当前所有外网ULB的清洗阈值为：
+在清洗阈值区域点击编辑按钮，进入设置页面，可根据EIP绑定的资源类型进行设置，目前有ULB/NAT网关/普通EIP三种类型。
 
-syn:30wpps,ack:30wpps,icmp:2wpps,udp:30wpps
-dns:2wpps,ssdp:2wpps,ntp:2wpps,other:2wpps
+![](/images/uclean/opintro/清洗阈值编辑.png)
 
-![](/images/uclean/opintro/清洗阈值.png)
+比如设置ULB的清洗阈值为500Kpps，那么当前账号下的所有外网ULB的清洗阈值为：
+
+syn:500Kpps,ack:500Kpps,icmp:20Kpps,udp:500Kpps
+dns:20Kpps,ssdp:20Kpps,ntp:20Kpps,other:20Kpps
+
+![](/images/uclean/opintro/清洗阈值设置.png)
 
