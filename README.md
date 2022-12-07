@@ -16,13 +16,13 @@
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
   * 计费说明
-      * [杭州|台州机房](uantiddos/uads/price/bgp)
-      * [枣庄机房](uantiddos/uads/price/zaozhuang-price)
+      * [台州机房](uantiddos/uads/price/bgp)
+      * [扬州|枣庄机房](uantiddos/uads/price/zaozhuang-price)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
         * [1.2.添加IP](/uantiddos/uads/opintro/addip)
-        * [1.3.添加转发规则（杭州|枣庄高防）](/uantiddos/uads/opintro/addrules)
+        * [1.3.添加转发规则（扬州|枣庄高防）](/uantiddos/uads/opintro/addrules)
         * [1.4.添加域名白名单](/uantiddos/uads/opintro/adddomain)
     * [2.调整高防](/uantiddos/uads/opintro/upgrade)
     * [3.监控视图](/uantiddos/uads/opintro/dashboard)
