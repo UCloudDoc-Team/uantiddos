@@ -17,8 +17,7 @@
     * [5.监控视图](uantiddos/uads/opintro/dashboard)
 * 计费说明
     * 1.产品价格
-      * [台州机房](uantiddos/uads/price/bgp)
-      * [扬州|枣庄|石家庄机房](uantiddos/uads/price/zaozhuang-price)
+      * [台州|扬州|枣庄|石家庄机房](uantiddos/uads/price/zaozhuang-price)
 * [2. 到期说明](uantiddos/uads/opintro/invalid)
 * [3. 升降级高防服务](uantiddos/uads/price/upgrade)
 * [使用注意事项](uantiddos/uads/warning)

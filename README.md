@@ -16,8 +16,7 @@
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
   * 计费说明
-      * [台州机房](uantiddos/uads/price/bgp)
-      * [扬州|枣庄机房](uantiddos/uads/price/zaozhuang-price)
+      * [台州|扬州|枣庄机房](uantiddos/uads/price/zaozhuang-price)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
