@@ -9,7 +9,7 @@
     * [高防机房差异说明](uantiddos/uads/concepts/ipnumbers)
 * [架构和原理简介](uantiddos/uads/architecture)
 * [快速上手](uantiddos/uads/common) 
-* [计费说明](uantiddos/uads/price/zaozhuang-price)
+* [产品价格](uantiddos/uads/price/zaozhuang-price)
 * 操作指南
 * 1.创建高防
     * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)

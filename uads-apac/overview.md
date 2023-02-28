@@ -3,8 +3,8 @@
   
   * 产品简介
     * [产品概述](/uantiddos/uads-apac/concepts/overview) 
-    * [产品价格](/uantiddos/uads-apac/price/price)
     * [升级记录](/uantiddos/uads-apac/concepts/change)
+  * [产品价格](/uantiddos/uads-apac/price/price)
   * 操作指南
     * [1.创建高防](/uantiddos/uads-apac/opintro/add)
     * [2.调整高防](/uantiddos/uads-apac/opintro/upgrade)

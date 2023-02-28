@@ -5,9 +5,9 @@
     * [技术架构](uantiddos/uanycastclean/intro/architecture)
     * [使用限制](uantiddos/uanycastclean/intro/limit)
 * 购买指南
-    * [产品定价](uantiddos/uanycastclean/buy/price) 
     * [应用场景](uantiddos/uanycastclean/buy/apply)
     * [到期说明](uantiddos/uanycastclean/buy/invalid)
+* [产品价格](uantiddos/uanycastclean/buy/price) 
 * 操作指南
     * [购买防护包](uantiddos/uanycastclean/guide/buyanycastclean)
     * [绑定防护资源](/uantiddos/uanycastclean/guide/allocate)
