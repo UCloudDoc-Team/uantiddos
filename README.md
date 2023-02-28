@@ -15,8 +15,7 @@
     * [IP配额](/uantiddos/uads/concepts/ipnumbers)
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
-  * 计费说明
-      * [台州|扬州|枣庄机房](uantiddos/uads/price/zaozhuang-price)
+  * [计费说明](uantiddos/uads/price/zaozhuang-price)
   * 操作指南
     * 1.创建高防
         * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
