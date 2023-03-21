@@ -49,7 +49,6 @@
 | 曼谷	|	2Gbps, 泰国国际线路1000Mbps|
 | 首尔	|	1Gbps|
 | 新加坡	| 2Gbps|
-| 莫斯科	| 2Gbps|
 | 东京	| 2Gbps|
 | 台北	| 2Gbps|
 | 迪拜	| 2Gbps|
