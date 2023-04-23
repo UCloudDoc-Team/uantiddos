@@ -106,4 +106,4 @@ echo "insmod /lib/modules/`uname -r`/kernel/net/netfilter/ipvs/toa.ko">> /etc/rc
 ## 方式二：搭配UWAF一起使用
 
 如果不满足方式一的要求，还可以购买UWAF搭配一起使用。将域名先解析到高防，源站指定为uwaf的IP。
-操作[参见此处](https://docs.ucloud.cn/uewaf/problem/Get_realip)。
+操作[参见此处](https://docs.ucloud.cn/uewaf/use/ddos_with_uwaf)。
