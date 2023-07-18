@@ -6,7 +6,7 @@
 
 ## 2. 如果想提升主机的安全性怎么办？
 
-推荐使用[主机入侵检测产品](uhids/common)，目前免费安装和使用。
+推荐使用[主机入侵检测产品](https://docs.ucloud.cn/uhids/README)，目前免费安装和使用。
 
 ## 3. EIP封堵后，如何看攻击情况？
 
@@ -22,7 +22,7 @@ EIP的入向包量超过清洗阈值则会进行清洗，清洗后会对异常�
 
 ## 6. EIP封堵触发条件是什么？
 
-EIP的入向流量超过封堵阈值则会进行封堵，封堵后入向流量无法到达云主机，机房默认封堵阈值参考[UCloud默认黑洞策略](https://docs.ucloud.cn/uantiddos/usecurity/datacenter)。
+EIP的入向流量超过封堵阈值则会进行封堵，封堵后入向流量无法到达云主机，机房默认封堵阈值参考[UCloud黑洞策略](https://docs.ucloud.cn/uantiddos/usecurity/datacenter)。
 
 ## 7. EIP封堵后，为何还有少数区域仍可ping通？
 
