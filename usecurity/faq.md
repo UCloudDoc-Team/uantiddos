@@ -14,15 +14,15 @@
 
 ## 4. 机房是否有免费清洗服务？
 
-有，基础防护为免费服务，默认开通，机房免费清洗能力参考(https://docs.ucloud.cn/uantiddos/uclean/concepts/protect)。
+有，基础防护为免费服务，默认开通，机房免费清洗能力参考[机房清洗能力](https://docs.ucloud.cn/uantiddos/uclean/concepts/protect)。
 
 ## 5. EIP清洗触发条件是什么？
 
-EIP的入向包量超过清洗阈值则会进行清洗，清洗后会对异常流量进行过滤，机房默认清洗阈值参考(https://docs.ucloud.cn/uantiddos/uclean/concepts/protect)。
+EIP的入向包量超过清洗阈值则会进行清洗，清洗后会对异常流量进行过滤，机房默认清洗阈值参考[机房清洗能力](https://docs.ucloud.cn/uantiddos/uclean/concepts/protect)。
 
 ## 6. EIP封堵触发条件是什么？
 
-EIP的入向流量超过封堵阈值则会进行封堵，封堵后入向流量无法到达云主机，机房默认封堵阈值参考(https://docs.ucloud.cn/uantiddos/usecurity/datacenter)。
+EIP的入向流量超过封堵阈值则会进行封堵，封堵后入向流量无法到达云主机，机房默认封堵阈值参考[UCloud默认黑洞策略](https://docs.ucloud.cn/uantiddos/usecurity/datacenter)。
 
 ## 7. EIP封堵后，为何还有少数区域仍可ping通？
 
