@@ -42,7 +42,7 @@
 | 华北二  | 3Gbps |
 | 上海  | 2Gbps |
 | 广州   | 2Gbps |
-| 香港	| 1Gbps|
+| 香港	| 2Gbps|
 | 洛杉矶	| 2Gbps|
 | 华盛顿	| 2Gbps|
 | 法兰克福|	2Gbps|
