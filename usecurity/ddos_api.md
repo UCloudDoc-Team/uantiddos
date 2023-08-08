@@ -8,7 +8,7 @@
 2. 在弹出的订阅设置框中勾上回调按钮，填入对应的回调地址
 ![](/images/usecurity/订阅设置.png)
 3. 回调接口说明参考 https://docs.ucloud.cn/umon/guide/webhook 
-消息内容格式如下：(主要关注CustomInfo字段，其他字段以实际告警为准，其中PeakBps和PeakPps的单位分别为Mbps和Mpps)
+消息内容格式如下：
 ```
 {
     "Title": "IP封堵告警",
@@ -21,13 +21,18 @@
 }
 ```
 
+    备注：
+    以上字段仅供参考，以实际告警为准。
+    其中PeakBps和PeakPps的单位分别为Mbps和Kpps。
+
+
 ##	清洗告警回调配置
 1. 在 资源监控UMon –> 消息订阅 –> 订阅管理 –> IP流量清洗预警，点击右边的设置按钮
 ![](/images/usecurity/IP清洗.png)
 2. 在弹出的订阅设置框中勾上回调按钮，填入对应的回调地址
 ![](/images/usecurity/订阅设置.png)
 3. 回调接口说明参考 https://docs.ucloud.cn/umon/guide/webhook 
-消息内容格式如下：(主要关注CustomInfo字段，其他字段以实际告警为准，其中PeakBps和PeakPps的单位分别为Mbps和Mpps) 
+消息内容格式如下：(主要关注CustomInfo字段，其他字段以实际告警为准，其中PeakBps和PeakPps的单位分别为Mbps和Kpps) 
 ```
 {
     "Title": "IP清洗告警",
@@ -48,3 +53,7 @@
     "Signature": ""
 }
 ```
+
+    备注：
+    以上字段仅供参考，以实际告警为准。
+    其中PeakBps和PeakPps的单位分别为Mbps和Kpps。
