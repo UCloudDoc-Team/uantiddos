@@ -38,16 +38,16 @@
 
 **源站IP端口：** 真实业务服务器的IP和端口，支持非UCloud平台的主机。建议使用一个未曾使用过的源站IP接入高防，避免之前的源站IP暴露导致黑客绕过高防直接攻击源站。
 
-高级设置:如果不勾选只能配置高防IP和源站IP一对一的IP转发。勾选后可以配置高防IP和源站IP直接的TCP端口转发。
+**高级设置：** 如果不勾选只能配置高防IP和源站IP一对一的IP转发。勾选后可以配置高防IP和源站IP直接的TCP端口转发。
 
-协议类型:
+**协议类型：** 
 
   - IP：高防IP和源站IP进行一对一的IP转发。
   - TCP：高防IP和源站IP进行TCP端口转发。
 
-高防IP端口:对外提供服务的高防IP和端口。
+**高防IP端口：** 对外提供服务的高防IP和端口。
 
-TOAID:源站TOA模块将根据此ID通过TCP option获取用户真实IP。UCloud提供的TOA模块默认值是200。
+**TOAID：**源站TOA模块将根据此ID通过TCP option获取用户真实IP。UCloud提供的TOA模块默认值是200。
 
 ``` 
  TOA模块安装方式参考：https://docs.ucloud.cn/uantiddos/uads/faq/howtogetip
