@@ -14,7 +14,7 @@
 * 1.创建高防
     * [1.1.添加高防（初次购买）](/uantiddos/uads/opintro/add)
     * [1.2.添加IP](/uantiddos/uads/opintro/addip)
-    * [1.3.添加转发规则（扬州|枣庄高防）](/uantiddos/uads/opintro/addrules)
+    * [1.3.添加转发规则](/uantiddos/uads/opintro/addrules)
     * [1.4.添加域名白名单](/uantiddos/uads/opintro/adddomain)
 * [2.调整高防](/uantiddos/uads/opintro/upgrade)
 * [3.监控视图](/uantiddos/uads/opintro/dashboard)
