@@ -8,7 +8,7 @@
 
 ## 丰富的安全防护策略
 
-支持网络层和应用层攻击防护，各类常见攻击包括syn flood、ack flood、udp flood、icmp flood等。
+支持网络层攻击防护，各类常见攻击包括syn flood、ack flood、udp flood、icmp flood等。
 
 ## 超低延迟，告别卡顿
 
