@@ -4,7 +4,7 @@
 
 ## 境外
 
-1G以下免费，机房可以提供的清洗能力参见[此处](uantiddos/uclean/concepts/protect)。
+机房可以提供的清洗能力参见[此处](uantiddos/uclean/concepts/protect)。
 
 付费方式：预付费
 
