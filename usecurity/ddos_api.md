@@ -21,7 +21,7 @@
         "Ip": "x.x.x.x",
         "PeakBps": "2015.00",
         "ProjectId": "org-0lo0xxx",
-        "Region": xxx,
+        "Region": 10010,
         "RegionZh": "迪拜",
         "Time": "2022-03-22 17:25:37",
         "Type": "StartBlocking"
@@ -31,7 +31,7 @@
 ```
 
 ##	清洗告警回调配置
-1. 在 资源监控UMon –> 消息订阅 –> 订阅管理 –> IP流量清洗预警，点击右边的设置按钮
+1. 在 资源监控UMon –> 消息订阅 –> 订阅管理 –> IP流量清洗告警，点击右边的设置按钮
 ![](/images/usecurity/IP清洗.png)
 2. 在弹出的订阅设置框中勾上回调按钮，填入对应的回调地址
 ![](/images/usecurity/订阅设置.png)
@@ -51,7 +51,7 @@
         "PeakBps": "1228.38",
         "PeakPps": "142.32",
         "ProjectId": "org-0loxxx",
-        "Region": 123,
+        "Region": 10010,
         "RegionZh": "迪拜",
         "Time": "2022-03-22 17:39:59",
         "Type": "StartClean"
@@ -68,7 +68,7 @@
         "EIPId": "eip-hvs0xxx",
         "Ip": "x.x.x.x",
         "ProjectId": "org-0loxxx",
-        "Region": 123,
+        "Region": 10010,
         "RegionZh": "迪拜",
         "Time": "2022-03-22 17:39:59",
         "Type": "StopClean"
