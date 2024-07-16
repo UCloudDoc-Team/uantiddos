@@ -15,7 +15,7 @@
     "SessionId": "4356840c-661b-44e2-8449-e5674209069e",
     "TopicName": "ip_blocking",
     "TopicNameCn": "IP封堵",
-    "CustomInfo": "{\"EIPId\":\"eip-mcud4xv4p38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.00\",\"ProjectId\":\"org-4g5v3v\",\"Region\":xxx,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:40\",\"Type\":\"StartBlocking\"}",
+    "CustomInfo": "{\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.00\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:40\",\"Type\":\"StartBlocking\"}",
     "Content": "xxx(告警内容)",
     "Signature": "xxx"
 }
@@ -27,7 +27,7 @@
 
 
 ##	清洗告警回调配置
-1. 在 资源监控UMon –> 消息订阅 –> 订阅管理 –> IP流量清洗预警，点击右边的设置按钮
+1. 在 资源监控UMon –> 消息订阅 –> 订阅管理 –> IP流量清洗告警，点击右边的设置按钮
 ![](/images/usecurity/IP清洗.png)
 2. 在弹出的订阅设置框中勾上回调按钮，填入对应的回调地址
 ![](/images/usecurity/订阅设置.png)
@@ -39,7 +39,7 @@
     "SessionId": "6b54fb76-d304-4699-ac16-ae87a0b6a74b",
     "TopicName": "ip_clean_alarm",
     "TopicNameCn": "IP流量清洗告警",
-    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcud4xv4p38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5v3v\",\"Region\":xxx,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StartClean\"}",
+    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StartClean\"}",
     "Content": " xxx(告警内容)",
     "Signature": ""
 }
@@ -48,7 +48,7 @@
     "SessionId": "6b54fb76-d304-4699-ac16-ae87a0b6a74b",
     "TopicName": "ip_clean_alarm",
     "TopicNameCn": "IP流量清洗告警",
-    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcud4xv4p38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5v3v\",\"Region\":xxx,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StopClean\"}",
+    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StopClean\"}",
     "Content": " xxx(告警内容)",
     "Signature": ""
 }
