@@ -5,7 +5,6 @@
     * [名词解释](uantiddos/uads/concepts/term) 
     * [产品优势](uantiddos/uads/concepts/advantage)
     * [主要功能](uantiddos/uads/concepts/function)
-    * [升级记录](uantiddos/uads/concepts/change)
     * [高防机房差异说明](uantiddos/uads/concepts/ipnumbers)
 * [架构和原理简介](uantiddos/uads/architecture)
 * [快速上手](uantiddos/uads/common) 

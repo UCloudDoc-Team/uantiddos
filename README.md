@@ -11,7 +11,6 @@
     * [名词解释](/uantiddos/uads/concepts/term) 
     * [产品优势](/uantiddos/uads/concepts/advantage)
     * [主要功能](/uantiddos/uads/concepts/function)
-    * [升级记录](/uantiddos/uads/concepts/change)
     * [IP配额](/uantiddos/uads/concepts/ipnumbers)
   * [架构和原理简介](/uantiddos/uads/architecture)
   * [快速上手](/uantiddos/uads/common) 
@@ -33,7 +32,6 @@
 * [海外高防](/uantiddos/uads-apac/overview.md)
   * 产品简介
     * [产品概述](/uantiddos/uads-apac/concepts/overview) 
-    * [升级记录](/uantiddos/uads-apac/concepts/change)
   * [产品价格](/uantiddos/uads-apac/price/price)
   * 操作指南
     * [1.创建高防](/uantiddos/uads-apac/opintro/add)
@@ -49,7 +47,6 @@
     * [产品概述](/uantiddos/uclean/concepts/overview) 
     * [产品优势](/uantiddos/uclean/concepts/advantage)
     * [机房清洗能力](/uantiddos/uclean/concepts/protect)
-    * [升级记录](/uantiddos/uclean/concepts/change)
   * [架构和原理简介](/uantiddos/uclean/architecture)
   * [快速上手](/uantiddos/uclean/common) 
   * [产品价格](/uantiddos/uclean/price)

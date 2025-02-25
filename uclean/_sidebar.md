@@ -5,7 +5,6 @@
     * [产品概述](/clean/concepts/overview) 
     * [产品优势](/clean/concepts/advantage)
     * [机房清洗能力](/clean/concepts/protect)
-    * [升级记录](/clean/concepts/change)
 * [架构和原理简介](/clean/architecture)
 * [快速上手](/clean/common) 
 * [产品价格](/clean/price)

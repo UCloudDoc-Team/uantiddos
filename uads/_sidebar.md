@@ -6,7 +6,6 @@
     * [名词解释](/uads/concepts/term) 
     * [产品优势](/uads/concepts/advantage)
     * [主要功能](/uads/concepts/function)
-    * [升级记录](/uads/concepts/change)
     * [高防机房差异说明](/uads/concepts/ipnumbers)
 * [架构和原理简介](/uads/architecture)
 * [快速上手](/uads/common) 
