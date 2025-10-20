@@ -1,4 +1,3 @@
-* [概览](/uantiddos/README)
 
 * [概览](/uantiddos/README)
 
