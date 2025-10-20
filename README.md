@@ -41,7 +41,6 @@
     * [防护区域](/uantiddos/uads-unlimited/concepts/ProtectedRegion)
     * [核心能力](/uantiddos/uads-unlimited/concepts/capability)
     * [产品优势](/uantiddos/uads-unlimited/concepts/advantages)
-    * [产品规格限制](/uantiddos/uads-unlimited/concepts/ProductLimits)
   
   * [架构和原理简介](/uantiddos/uads-unlimited/architecture)
   
