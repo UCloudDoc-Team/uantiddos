@@ -6,6 +6,6 @@
 
 - ​**历史数据**​：支持按**天**、**月**维度查询历史流量与攻击防护数据，用于业务分析和报告。
   
-  ![监控1.png](/images/uads-unlimited/监控1.png)
+  ![监控1.png](/images/uads-unlimited/jiankong1.png)
   
-  ![监控2.png](/images/uads-unlimited/监控2.png)
+  ![监控2.png](/images/uads-unlimited/jiankong2.png)

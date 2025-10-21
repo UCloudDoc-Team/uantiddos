@@ -1,6 +1,6 @@
 ##### 步骤二：购买海外高防
 
-1. 在 DDoS 攻击防护页面，点击 “海外高防” 选项。![购买1.png](/images/uads-unlimited/购买1.png)
+1. 在 DDoS 攻击防护页面，点击 “海外高防” 选项。![购买1.png](/images/uads-unlimited/goumai1.png)
 
 2. 点击 “添加高防”进入套餐购买页面。
 
@@ -13,7 +13,7 @@
 
 - ​**付费方式**​：根据业务周期选择“月付”或“年付”。
   
-  ![购买2.png](/images/uads-unlimited/购买2.png)
+  ![购买2.png](/images/uads-unlimited/goumai2.png)
 4. 确认配置信息及费用无误后，点击 “立即购买”进入支付页面。核对订单详情，点击“确认支付”完成购买。
    
-   ![购买3.png](/images/uads-unlimited/购买3.png)
+   ![购买3.png](/images/uads-unlimited/goumai3.png)

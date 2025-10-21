@@ -1,4 +1,4 @@
 # 架构和原理简介
 
 海外高防基于UCloud全球分布式防御架构，拥有百Tbps级别DDoS防护能力，覆盖330多个海外节点。各节点均配备高性能转发集群，依托智能调度系统实现全球流量协同与实时清洗，可无限扩展防护容量，有效抵御超大规模攻击。用户只需将高防实例的Anycast EIP绑定至云主机、负载均衡、NAT网关、WAF等产品，即可快速启用防护，保障海外业务稳定运行。
-![](/images/uads-unlimited/高防架构.png)
+![](/images/uads-unlimited/DDoSJiaGou.png)
