@@ -32,7 +32,7 @@
 |华盛顿| 2Gbps|
 |法兰克福| 2Gbps|
 |曼谷|2Gbps, 泰国国际线路1000Mbps|
-|首尔|1Gbps|
+|首尔|2Gbps|
 |新加坡|2Gbps|
 |东京|2Gbps|
 |台北|2Gbps|
