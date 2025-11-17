@@ -4,16 +4,16 @@
 
 **目录**
 
-[产品简介](/security/uads/concepts)
+[产品简介](uantiddos/uads/concepts)
 
-[架构和原理简介](/security/uads/opintro)
+[架构和原理简介](uantiddos/uads/architecture)
 
-[快速上手](/security/uads/common)
+[快速上手](uantiddos/uads/common)
 
-[操作指南](/security/uads/opintro)
+[操作指南](uantiddos/uads/opintro)
 
-[计费说明](/security/uads/price)
+[计费说明](uantiddos/uads/price)
 
-[使用注意事项](/security/uads/warning)
+[使用注意事项](uantiddos/uads/warning)
 
-[FAQ](/security/uads/faq)
+[FAQ](uantiddos/uads/faq)
