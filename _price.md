@@ -25,17 +25,17 @@ DDoS高防为您的业务提供针对DDoS攻击的基础防护和弹性防护服
 | 石家庄 | 30 | 50 | -       | 15000 | 150000  | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 扬州 | 30 | 50 | -       | 15000 | 150000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 中国香港 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 中国台北 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 东京 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 首尔 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 曼谷 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 中国台湾（台湾（台湾（台北））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 日本（日本（日本（东京））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 韩国（韩国（韩国（首尔））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 泰国（泰国（泰国（曼谷））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 | 新加坡 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 雅加达 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 胡志明市 | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 法兰克福 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 洛杉矶 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 华盛顿 | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
-| 伦敦   | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 印度尼西亚（印度尼西亚（印度尼西亚（雅加达））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 越南（胡志明） | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 德国（德国（德国（法兰克福））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 美国（美国（美国（洛杉矶））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 美国（美国（美国（华盛顿））） | 50 | 10 | 10494.96 | 30000 | 300000 | [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
+| 英国（英国（英国（伦敦）））   | 50 | 10 | 10494.96 | 30000 | 300000 |  [立即购买](https://console.ucloud.cn/uads/gaofang/create) |
 
 
 
