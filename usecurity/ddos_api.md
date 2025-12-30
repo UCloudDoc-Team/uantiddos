@@ -15,7 +15,7 @@
     "SessionId": "4356840c-661b-44e2-8449-e5674209069e",
     "TopicName": "ip_blocking",
     "TopicNameCn": "IP封堵",
-    "CustomInfo": "{\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.00\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:40\",\"Type\":\"StartBlocking\"}",
+    "CustomInfo": "{\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.00\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"阿联酋（迪拜）\",\"Time\":\"2023-08-08 17:15:40\",\"Type\":\"StartBlocking\"}",
     "Content": "xxx(告警内容)",
     "Signature": "xxx"
 }
@@ -39,7 +39,7 @@
     "SessionId": "6b54fb76-d304-4699-ac16-ae87a0b6a74b",
     "TopicName": "ip_clean_alarm",
     "TopicNameCn": "IP流量清洗告警",
-    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StartClean\"}",
+    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"阿联酋（迪拜）\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StartClean\"}",
     "Content": " xxx(告警内容)",
     "Signature": ""
 }
@@ -48,7 +48,7 @@
     "SessionId": "6b54fb76-d304-4699-ac16-ae87a0b6a74b",
     "TopicName": "ip_clean_alarm",
     "TopicNameCn": "IP流量清洗告警",
-    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"迪拜\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StopClean\"}",
+    "CustomInfo": "{\"CleanType\":\"UDP_FRAG|R_CLDAP_FLOOD\",\"EIPId\":\"eip-mcxxxx38\",\"Ip\":\"x.x.x.x\",\"PeakBps\":\"2032.72\",\"PeakPps\":\"226.89\",\"ProjectId\":\"org-4g5111\",\"Region\":10010,\"RegionZh\":\"阿联酋（迪拜）\",\"Time\":\"2023-08-08 17:15:38\",\"Type\":\"StopClean\"}",
     "Content": " xxx(告警内容)",
     "Signature": ""
 }
